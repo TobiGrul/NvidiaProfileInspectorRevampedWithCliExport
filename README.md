@@ -1,20 +1,24 @@
-## What is this fork? Why does it exist? What do you mean by "fork all-in-one?"
-With the main repo from Orbmu2k having gone without updates since 2023, this fork aims to collect changes made across various forks into a single release that represents the "most up to date version" possible. Changes are reviewed and manually merged from forks of the original nvidiaProfileInspector repo found on GitHub.
+## What is the purpose of this fork? Why does it exist?
 
-If you would like to contribute directly - or take over this project - please reach out! I am not a C# developer, just an enthusiast who knows enough to resolve merge conflicts.
+This fork focuses on a few things
 
-## What's New
-The best way to know what has changed is to browse the commits that are not included upstream: https://github.com/Orbmu2k/nvidiaProfileInspector/compare/master...neatchee:nvidiaProfileInspectorForkAIO:master
+1 - The inclusion of more quality of life options to help modernize the app
 
-In summary...
-- Exposed several settings that were otherwise not visible without a CustomSettingNames.xml file, such as RTX HDR and Dynamic Vibrance from NVapp, override settings for DLSS 3.1.11+, image sharpening settings, and a number of settings for stereocopic viewing that are disabled in the Reference.xml file (marked as code comments) but can be made available by uncommenting sections of that file (such as stereoscopic settings)
-  - The DLSS settings are considered "UNKNOWN" so to make them visible you must enable the second-to-last button on the toolbar (magnifying glass): "Show unknown settings from NVIDIA predefined profiles"
+2 - Documenting & naming unknown & unamed settings, so end users can better see what they're changing
+
+3 - Organizing settings in ways that make more sense so they're easier to search for and apply (e,g, when a list of options is given, lay out the options from smallest to largest, recategorizing where settings go, etc)
+
+## Other New Things
+
+Other than the stated things above, here's some additional changes the tool makes over the original
+
+- Exposed several settings that were otherwise not visible without a CustomSettingNames.xml file
 - Improved usability of the search/filter field, e.g. it automatically applies as you type, can be cleared using the "escape" key, etc
 - Code formatting improvements and bug fixes
 - Improved error messaging
 - Improved performance (fast load, etc)
 
-## Original README body
+## Original NVPI README
 
 ![](/nspector/Images/n1-016.png) **NVIDIA Profile Inspector**
 
