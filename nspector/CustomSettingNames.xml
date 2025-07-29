@@ -7721,7 +7721,7 @@ Extra Section
 <CustomSetting>
   <UserfriendlyName>Smooth Motion: Flip Meter Debug</UserfriendlyName>
   <HexSettingID>0xB03A4546</HexSettingID>
-  <GroupName>8 -Extra</GroupName>
+  <GroupName>8 - Extra</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
   <SettingValues>
     <CustomSettingValue>
@@ -7739,7 +7739,7 @@ Extra Section
 <CustomSetting>
   <UserfriendlyName>Smooth Motion: Flip Meter</UserfriendlyName>
   <HexSettingID>0xB03A4547</HexSettingID>
-  <GroupName>8 -Extra</GroupName>
+  <GroupName>8 - Extra</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
   <SettingValues>
     <CustomSettingValue>
