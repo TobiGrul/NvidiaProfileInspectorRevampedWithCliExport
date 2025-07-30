@@ -46,9 +46,15 @@ For more information how to use this tool, you can find some useful informative 
 
 <img width="1024" height="1204" alt="Untitled2" src="https://github.com/user-attachments/assets/de0d1793-8ad0-4d6a-8c2e-3824860748d0" />
 
-D﻿onations
+## Socials & Donations
+
+**Socials**
+
+[Discord﻿](https://discord.com/invite/dc74er8TJF) - [YouTube﻿](https://www.youtube.com/c/Hybred) - [Twitter/X](https://x.com/TheHybred)
+
+**D﻿onations**
 
 Everything I make is free & always will be, but purchasing hardware, tools & games for testing means I lose money to deliver my
 content. Please donate if you wish to help me out.
 
-  ﻿
+[Patreon﻿](https://www.patreon.com/c/Hybred) - [Ko-fi](https://ko-fi.com/hybred)﻿
