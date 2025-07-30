@@ -4,9 +4,9 @@ This fork focuses on a few things
 
 1 - The inclusion of more quality of life options to help modernize the app
 
-2 - Documenting & naming unknown & unamed settings, so end users can better see what they're changing
+2 - Documenting & naming unknown & unnamed settings, so end users can better see what they're changing
 
-3 - Organizing settings in ways that make more sense so they're easier to search for and apply (e,g, when a list of options is given, lay out the options from smallest to largest, recategorizing where settings go, etc)
+3 - Organizing settings in ways that make more sense so they're easier to find and apply (e,g, when a list of options is given, lay out the options from smallest to largest, recategorizing where settings go, etc)
 
 4 - Be the first to add support &/or document new features, along with being overall the most user friendly way to adjust NVIDIA settings compared to other versions of NVPI
 
@@ -24,15 +24,15 @@ Other than the stated things above, here's some additional changes the tool make
 - Improved error messaging
 - Improved performance (faster load, etc)
 
-## Original NVPI README
+## What is NVPI?
 
 ![](/nspector/Images/n1-016.png) **NVIDIA Profile Inspector**
 
-This tool is used for modifying game profiles inside the internal driver database of the nvidia driver.
+This tool is used for modifying game profiles inside the internal nvidia driver database.
 All game profiles are provided by the nvidia driver, but you can add your own profiles for games missing in the driver database.
 You also have access to hidden and undocumented settings, which are not provided by the drivers control panel.
 
-For more information how to use this tool, you can find some very good wikis here:
+For more information how to use this tool, you can find some useful informative wikis here:
 * https://wiki.step-project.com/Guide:NVIDIA_Inspector
 * https://www.pcgamingwiki.com/wiki/Nvidia_Profile_Inspector
 
@@ -45,3 +45,10 @@ For more information how to use this tool, you can find some very good wikis her
 **Small**
 
 <img width="1024" height="1204" alt="Untitled2" src="https://github.com/user-attachments/assets/de0d1793-8ad0-4d6a-8c2e-3824860748d0" />
+
+D﻿onations
+
+Everything I make is free & always will be, but purchasing hardware, tools & games for testing means I lose money to deliver my
+content. Please donate if you wish to help me out.
+
+  ﻿
