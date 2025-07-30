@@ -36,4 +36,8 @@ For more information how to use this tool, you can find some very good wikis her
 * https://wiki.step-project.com/Guide:NVIDIA_Inspector
 * https://www.pcgamingwiki.com/wiki/Nvidia_Profile_Inspector
 
-![](npi_screenshot.png)
+## Screenshots
+
+<img width="2258" height="1269" alt="Untitled" src="https://github.com/user-attachments/assets/6d5bbfac-02b1-483e-b70c-d1ca26e69c32" />
+
+
