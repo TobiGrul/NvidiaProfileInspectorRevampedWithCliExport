@@ -40,8 +40,8 @@ namespace nspector
             this.themeDropDown.Name = "themeDropDown";
             this.themeDropDown.Size = new System.Drawing.Size(55, 22);
             this.themeDropDown.Text = "Theme";
-            this.themeDropDown.DropDownItems.Add("Dark").Click += (s, e) => ApplyTheme("Dark");
-            this.themeDropDown.DropDownItems.Add("Light").Click += (s, e) => ApplyTheme("Light");
+            this.themeDropDown.DropDownItems.Add("Dark Theme", null, this.ThemeMenuItem_Click);
+            this.themeDropDown.DropDownItems.Add("Light Theme", null, this.ThemeMenuItem_Click);
             this.tsbModifiedProfiles = new System.Windows.Forms.ToolStripSplitButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.tsbRefreshProfile = new System.Windows.Forms.ToolStripButton();
@@ -121,27 +121,29 @@ namespace nspector
             this.tsMain.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
             this.tsMain.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.tsMain.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.tslProfiles,
-            this.cbProfiles,
-            this.tsbModifiedProfiles,
-            this.toolStripSeparator1,
-            this.tsbRefreshProfile,
-            this.tsbRestoreProfile,
-            this.tsbCreateProfile,
-            this.tsbDeleteProfile,
-            this.tsSep2,
-            this.tsbAddApplication,
-            this.tssbRemoveApplication,
-            this.tsSep3,
-            this.tsbExportProfiles,
-            this.tsbImportProfiles,
-            this.tsSep4,
-            this.tscbShowCustomSettingNamesOnly,
-            this.tsSep5,
-            this.tscbShowScannedUnknownSettings,
-            this.tsbBitValueEditor,
-            this.tsSep6,
-            this.tsbApplyProfile});
+                this.themeDropDown,
+                this.tslProfiles,
+                this.cbProfiles,
+                this.tsbModifiedProfiles,
+                this.toolStripSeparator1,
+                this.tsbRefreshProfile,
+                this.tsbRestoreProfile,
+                this.tsbCreateProfile,
+                this.tsbDeleteProfile,
+                this.tsSep2,
+                this.tsbAddApplication,
+                this.tssbRemoveApplication,
+                this.tsSep3,
+                this.tsbExportProfiles,
+                this.tsbImportProfiles,
+                this.tsSep4,
+                this.tscbShowCustomSettingNamesOnly,
+                this.tsSep5,
+                this.tscbShowScannedUnknownSettings,
+                this.tsbBitValueEditor,
+                this.tsSep6,
+                this.tsbApplyProfile
+            });
             this.tsMain.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.HorizontalStackWithOverflow;
             this.tsMain.Location = new System.Drawing.Point(12, 4);
             this.tsMain.Name = "tsMain";
@@ -149,7 +151,6 @@ namespace nspector
             this.tsMain.Size = new System.Drawing.Size(840, 25);
             this.tsMain.TabIndex = 24;
             this.tsMain.Text = "toolStrip1";
-            this.themeDropDown});
             // 
             // tslProfiles
             // 
@@ -627,6 +628,7 @@ namespace nspector
         private System.Windows.Forms.ComboBox cbValues;
         private System.Windows.Forms.Button btnResetValue;
         private System.Windows.Forms.ProgressBar pbMain;
+    // Add this field declaration to the frmDrvSettings partial class (usually near other controls)
         private System.Windows.Forms.ToolStrip tsMain;
         private System.Windows.Forms.ToolStripDropDownButton themeDropDown;
         private System.Windows.Forms.ToolStripButton tsbRestoreProfile;
