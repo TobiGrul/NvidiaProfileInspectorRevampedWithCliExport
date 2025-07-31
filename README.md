@@ -36,7 +36,9 @@ For more information how to use this tool, you can find some useful informative 
 * https://wiki.step-project.com/Guide:NVIDIA_Inspector
 * https://www.pcgamingwiki.com/wiki/Nvidia_Profile_Inspector
 
-<img width="1024" height="1204" alt="Untitled2" src="https://github.com/user-attachments/assets/de0d1793-8ad0-4d6a-8c2e-3824860748d0" />
+<img width="2288" height="1291" alt="Untitled" src="https://github.com/user-attachments/assets/c6798f49-061a-406b-b5b3-bcde607d4563" />
+
+<img width="1229" height="1205" alt="Untitled2" src="https://github.com/user-attachments/assets/8e1e5ed4-359c-4ae3-8eec-df58c922be6e" />
 
 ## Socials & Donations
 
