@@ -1,0 +1,3983 @@
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lblApplications' does not exist in the current context
+The name 'tssbRemoveApplication' does not exist in the current context
+The name 'lblApplications' does not exist in the current context
+The name 'tssbRemoveApplication' does not exist in the current context
+The name 'tssbRemoveApplication' does not exist in the current context
+The name 'tssbRemoveApplication' does not exist in the current context
+The name 'tscbShowCustomSettingNamesOnly' does not exist in the current context
+The name 'tscbShowScannedUnknownSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'btnResetValue' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'btnResetValue' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'btnResetValue' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'tsbBitValueEditor' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'tsbBitValueEditor' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'tbSettingDescription' does not exist in the current context
+The name 'tbSettingDescription' does not exist in the current context
+The name 'tbSettingDescription' does not exist in the current context
+The name 'tbSettingDescription' does not exist in the current context
+The name 'tbSettingDescription' does not exist in the current context
+The name 'tbSettingDescription' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'btnResetValue' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'btnResetValue' does not exist in the current context
+The name 'btnResetValue' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'tsbBitValueEditor' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lblApplications' does not exist in the current context
+The name 'tscbShowCustomSettingNamesOnly' does not exist in the current context
+The name 'lblWidth330' does not exist in the current context
+The name 'chSettingID' does not exist in the current context
+The name 'lblWidth330' does not exist in the current context
+The name 'chSettingValueHex' does not exist in the current context
+The name 'lblWidth96' does not exist in the current context
+The name 'tsMain' does not exist in the current context
+The name 'tsMain' does not exist in the current context
+The name 'lblWidth16' does not exist in the current context
+The name 'lblWidth16' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'tsbModifiedProfiles' does not exist in the current context
+The name 'tsbModifiedProfiles' does not exist in the current context
+The name 'tsbRestoreProfile' does not exist in the current context
+The name 'tsbModifiedProfiles' does not exist in the current context
+The name 'tsbModifiedProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'tsbBitValueEditor' does not exist in the current context
+The name 'tsbDeleteProfile' does not exist in the current context
+The name 'tsbAddApplication' does not exist in the current context
+The name 'tssbRemoveApplication' does not exist in the current context
+The name 'btnResetValue' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'tsbDeleteProfile' does not exist in the current context
+The name 'tsbAddApplication' does not exist in the current context
+The name 'tssbRemoveApplication' does not exist in the current context
+The name 'lblApplications' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'tsbDeleteProfile' does not exist in the current context
+The name 'tsbAddApplication' does not exist in the current context
+The name 'tssbRemoveApplication' does not exist in the current context
+The name 'lblApplications' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'tsbModifiedProfiles' does not exist in the current context
+The name 'exportUserdefinedProfilesToolStripMenuItem' does not exist in the current context
+The name 'tsbModifiedProfiles' does not exist in the current context
+The name 'tsbRefreshProfile' does not exist in the current context
+The name 'pbMain' does not exist in the current context
+The name 'pbMain' does not exist in the current context
+The name 'pbMain' does not exist in the current context
+The name 'tscbShowScannedUnknownSettings' does not exist in the current context
+The name 'tsbModifiedProfiles' does not exist in the current context
+The name 'pbMain' does not exist in the current context
+The name 'pbMain' does not exist in the current context
+The name 'tsbRefreshProfile' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lblWidth30' does not exist in the current context
+The name 'lblApplications' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'tsbExportProfiles' does not exist in the current context
+The name 'tsbImportProfiles' does not exist in the current context
+The name 'tssbRemoveApplication' does not exist in the current context
+The name 'tssbRemoveApplication' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'cbProfiles' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'tscbShowCustomSettingNamesOnly' does not exist in the current context
+The name 'tscbShowScannedUnknownSettings' does not exist in the current context
+The name 'tscbShowCustomSettingNamesOnly' does not exist in the current context
+The name 'tscbShowScannedUnknownSettings' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'cbValues' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'pbMain' does not exist in the current context
+The name 'pbMain' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'pbMain' does not exist in the current context
+The name 'pbMain' does not exist in the current context
+The name 'lvSettings' does not exist in the current context
+The name 'txtFilter' does not exist in the current context
+'frmDrvSettings' does not contain a definition for 'ilListView' and no accessible extension method 'ilListView' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'pbMain' and no accessible extension method 'pbMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tslProfiles' and no accessible extension method 'tslProfiles' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'cbProfiles' and no accessible extension method 'cbProfiles' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbModifiedProfiles' and no accessible extension method 'tsbModifiedProfiles' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'toolStripSeparator1' and no accessible extension method 'toolStripSeparator1' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbRefreshProfile' and no accessible extension method 'tsbRefreshProfile' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbRestoreProfile' and no accessible extension method 'tsbRestoreProfile' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'themeDropDown' and no accessible extension method 'themeDropDown' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbCreateProfile' and no accessible extension method 'tsbCreateProfile' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbDeleteProfile' and no accessible extension method 'tsbDeleteProfile' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsSep2' and no accessible extension method 'tsSep2' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbAddApplication' and no accessible extension method 'tsbAddApplication' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tssbRemoveApplication' and no accessible extension method 'tssbRemoveApplication' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsSep3' and no accessible extension method 'tsSep3' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbExportProfiles' and no accessible extension method 'tsbExportProfiles' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'exportCurrentProfileOnlyToolStripMenuItem' and no accessible extension method 'exportCurrentProfileOnlyToolStripMenuItem' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'exportCurrentProfileIncludingPredefinedSettingsToolStripMenuItem' and no accessible extension method 'exportCurrentProfileIncludingPredefinedSettingsToolStripMenuItem' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'exportUserdefinedProfilesToolStripMenuItem' and no accessible extension method 'exportUserdefinedProfilesToolStripMenuItem' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'exportAllProfilesNVIDIATextFormatToolStripMenuItem' and no accessible extension method 'exportAllProfilesNVIDIATextFormatToolStripMenuItem' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbImportProfiles' and no accessible extension method 'tsbImportProfiles' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'themeDropDown' and no accessible extension method 'themeDropDown' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'importProfilesToolStripMenuItem' and no accessible extension method 'importProfilesToolStripMenuItem' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'importAllProfilesNVIDIATextFormatToolStripMenuItem' and no accessible extension method 'importAllProfilesNVIDIATextFormatToolStripMenuItem' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsSep4' and no accessible extension method 'tsSep4' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tscbShowCustomSettingNamesOnly' and no accessible extension method 'tscbShowCustomSettingNamesOnly' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsSep5' and no accessible extension method 'tsSep5' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tscbShowScannedUnknownSettings' and no accessible extension method 'tscbShowScannedUnknownSettings' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbBitValueEditor' and no accessible extension method 'tsbBitValueEditor' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsSep6' and no accessible extension method 'tsSep6' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbApplyProfile' and no accessible extension method 'tsbApplyProfile' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'btnResetValue' and no accessible extension method 'btnResetValue' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'lblApplications' and no accessible extension method 'lblApplications' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'toolStripButton5' and no accessible extension method 'toolStripButton5' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'toolStripLabel2' and no accessible extension method 'toolStripLabel2' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'toolStripButton6' and no accessible extension method 'toolStripButton6' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'ilCombo' and no accessible extension method 'ilCombo' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'cbValues' and no accessible extension method 'cbValues' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'lblWidth96' and no accessible extension method 'lblWidth96' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'lblWidth330' and no accessible extension method 'lblWidth330' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'lblWidth16' and no accessible extension method 'lblWidth16' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'lblWidth30' and no accessible extension method 'lblWidth30' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'lvSettings' and no accessible extension method 'lvSettings' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'chSettingID' and no accessible extension method 'chSettingID' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'chSettingValue' and no accessible extension method 'chSettingValue' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'chSettingValueHex' and no accessible extension method 'chSettingValueHex' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tbSettingDescription' and no accessible extension method 'tbSettingDescription' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'pnlListview' and no accessible extension method 'pnlListview' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'txtFilter' and no accessible extension method 'txtFilter' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'pnlListview' and no accessible extension method 'pnlListview' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'ilListView' and no accessible extension method 'ilListView' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'ilListView' and no accessible extension method 'ilListView' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'ilListView' and no accessible extension method 'ilListView' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'ilListView' and no accessible extension method 'ilListView' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'ilListView' and no accessible extension method 'ilListView' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'ilListView' and no accessible extension method 'ilListView' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'pbMain' and no accessible extension method 'pbMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'pbMain' and no accessible extension method 'pbMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'pbMain' and no accessible extension method 'pbMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'pbMain' and no accessible extension method 'pbMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'pbMain' and no accessible extension method 'pbMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'pbMain' and no accessible extension method 'pbMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tslProfiles' and no accessible extension method 'tslProfiles' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'cbProfiles' and no accessible extension method 'cbProfiles' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbModifiedProfiles' and no accessible extension method 'tsbModifiedProfiles' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'toolStripSeparator1' and no accessible extension method 'toolStripSeparator1' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbRefreshProfile' and no accessible extension method 'tsbRefreshProfile' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbRestoreProfile' and no accessible extension method 'tsbRestoreProfile' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbCreateProfile' and no accessible extension method 'tsbCreateProfile' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbDeleteProfile' and no accessible extension method 'tsbDeleteProfile' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsSep2' and no accessible extension method 'tsSep2' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbAddApplication' and no accessible extension method 'tsbAddApplication' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tssbRemoveApplication' and no accessible extension method 'tssbRemoveApplication' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsSep3' and no accessible extension method 'tsSep3' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbExportProfiles' and no accessible extension method 'tsbExportProfiles' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbImportProfiles' and no accessible extension method 'tsbImportProfiles' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsSep4' and no accessible extension method 'tsSep4' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tscbShowCustomSettingNamesOnly' and no accessible extension method 'tscbShowCustomSettingNamesOnly' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsSep5' and no accessible extension method 'tsSep5' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tscbShowScannedUnknownSettings' and no accessible extension method 'tscbShowScannedUnknownSettings' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbBitValueEditor' and no accessible extension method 'tsbBitValueEditor' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsSep6' and no accessible extension method 'tsSep6' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsbApplyProfile' and no accessible extension method 'tsbApplyProfile' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'tsMain' and no accessible extension method 'tsMain' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+'frmDrvSettings' does not contain a definition for 'themeDropDown' and no accessible extension method 'themeDropDown' accepting a first argument of type 'frmDrvSettings' could be found (are you missing a using directive or an assembly reference?)
+; expected
+Invalid token ')' in a member declaration
+The name 'tslProfiles.ImageScaling' does not exist in the current context.
+The name 'tslProfiles' does not exist in the current context.
+The name 'ImageScaling' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'System.Windows.Forms.ToolStripItemImageScaling.None' does not exist in the current context.
+The name 'None' does not exist in the current context.
+Invalid token ';' in a member declaration
+The name 'tslProfiles.Margin' does not exist in the current context.
+The name 'tslProfiles' does not exist in the current context.
+The name 'Margin' does not exist in the current context.
+Invalid token '=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '0' in a member declaration
+The name 'tslProfiles.Name' does not exist in the current context.
+The name 'tslProfiles' does not exist in the current context.
+The name 'Name' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'tslProfiles.Size' does not exist in the current context.
+The name 'tslProfiles' does not exist in the current context.
+The name 'Size' does not exist in the current context.
+Invalid token '=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '49' in a member declaration
+The name 'tslProfiles.Text' does not exist in the current context.
+The name 'tslProfiles' does not exist in the current context.
+The name 'Text' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'cbProfiles.AutoCompleteMode' does not exist in the current context.
+The name 'cbProfiles' does not exist in the current context.
+The name 'AutoCompleteMode' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'System.Windows.Forms.AutoCompleteMode.Suggest' does not exist in the current context.
+The name 'Suggest' does not exist in the current context.
+Invalid token ';' in a member declaration
+The name 'cbProfiles.AutoCompleteSource' does not exist in the current context.
+The name 'cbProfiles' does not exist in the current context.
+The name 'AutoCompleteSource' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'System.Windows.Forms.AutoCompleteSource.ListItems' does not exist in the current context.
+The name 'ListItems' does not exist in the current context.
+Invalid token ';' in a member declaration
+The name 'cbProfiles.AutoSize' does not exist in the current context.
+The name 'cbProfiles' does not exist in the current context.
+The name 'AutoSize' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'cbProfiles.DropDownWidth' does not exist in the current context.
+The name 'cbProfiles' does not exist in the current context.
+The name 'DropDownWidth' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'cbProfiles.Margin' does not exist in the current context.
+The name 'cbProfiles' does not exist in the current context.
+The name 'Margin' does not exist in the current context.
+Invalid token '=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '1' in a member declaration
+The name 'cbProfiles.MaxDropDownItems' does not exist in the current context.
+The name 'cbProfiles' does not exist in the current context.
+The name 'MaxDropDownItems' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'cbProfiles.Name' does not exist in the current context.
+The name 'cbProfiles' does not exist in the current context.
+The name 'Name' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'cbProfiles.Size' does not exist in the current context.
+The name 'cbProfiles' does not exist in the current context.
+The name 'Size' does not exist in the current context.
+Invalid token '=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '290' in a member declaration
+The name 'cbProfiles.SelectedIndexChanged' does not exist in the current context.
+The name 'cbProfiles' does not exist in the current context.
+The name 'SelectedIndexChanged' does not exist in the current context.
+Invalid token '+=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+'frmDrvSettings.this[cbProfiles_SelectedIndexChanged]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'cbProfiles_SelectedIndexChanged' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+'frmDrvSettings.this[cbProfiles_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'cbProfiles_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+'frmDrvSettings.this[cbProfiles_TextChanged]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'cbProfiles_TextChanged' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '36' in a member declaration
+The name 'tsbModifiedProfiles.TextImageRelation' does not exist in the current context.
+The name 'tsbModifiedProfiles' does not exist in the current context.
+The name 'TextImageRelation' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'System.Windows.Forms.TextImageRelation.Overlay' does not exist in the current context.
+The name 'Overlay' does not exist in the current context.
+Invalid token ';' in a member declaration
+The name 'tsbModifiedProfiles.ToolTipText' does not exist in the current context.
+The name 'tsbModifiedProfiles' does not exist in the current context.
+The name 'ToolTipText' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'tsbModifiedProfiles.ButtonClick' does not exist in the current context.
+The name 'tsbModifiedProfiles' does not exist in the current context.
+The name 'ButtonClick' does not exist in the current context.
+Invalid token '+=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+'frmDrvSettings.this[tsbModifiedProfiles_ButtonClick]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbModifiedProfiles_ButtonClick' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+'frmDrvSettings.this[tsbModifiedProfiles_DropDownItemClicked]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbModifiedProfiles_DropDownItemClicked' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '6' in a member declaration
+The name 'tsbRefreshProfile.DisplayStyle' does not exist in the current context.
+The name 'tsbRefreshProfile' does not exist in the current context.
+The name 'DisplayStyle' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'System.Windows.Forms.ToolStripItemDisplayStyle.Image' does not exist in the current context.
+The name 'Image' does not exist in the current context.
+Invalid token ';' in a member declaration
+The name 'tsbRefreshProfile.Image' does not exist in the current context.
+The name 'tsbRefreshProfile' does not exist in the current context.
+The name 'Image' does not exist in the current context.
+Invalid token '=' in a member declaration
+Tuple must contain at least two elements.
+Tuple must contain at least two elements.
+) expected
+The name 'resources.GetObject' does not exist in the current context.
+The name 'resources' does not exist in the current context.
+The name 'GetObject' does not exist in the current context.
+Tuple must contain at least two elements.
+) expected
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '"tsbRefreshProfile.Image"' in a member declaration
+The name 'tsbRefreshProfile.ImageTransparentColor' does not exist in the current context.
+The name 'tsbRefreshProfile' does not exist in the current context.
+The name 'ImageTransparentColor' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'System.Drawing.Color.Magenta' does not exist in the current context.
+The name 'Magenta' does not exist in the current context.
+Invalid token ';' in a member declaration
+The name 'tsbRefreshProfile.Name' does not exist in the current context.
+The name 'tsbRefreshProfile' does not exist in the current context.
+The name 'Name' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'tsbRefreshProfile.Size' does not exist in the current context.
+The name 'tsbRefreshProfile' does not exist in the current context.
+The name 'Size' does not exist in the current context.
+Invalid token '=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '24' in a member declaration
+The name 'tsbRefreshProfile.Text' does not exist in the current context.
+The name 'tsbRefreshProfile' does not exist in the current context.
+The name 'Text' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'tsbRefreshProfile.Click' does not exist in the current context.
+The name 'tsbRefreshProfile' does not exist in the current context.
+The name 'Click' does not exist in the current context.
+Invalid token '+=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+'frmDrvSettings.this[tsbRefreshProfile_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbRefreshProfile_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+Tuple must contain at least two elements.
+Tuple must contain at least two elements.
+) expected
+The name 'resources.GetObject' does not exist in the current context.
+The name 'resources' does not exist in the current context.
+The name 'GetObject' does not exist in the current context.
+Tuple must contain at least two elements.
+) expected
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '"tsbRestoreProfile.Image"' in a member declaration
+The name 'tsbRestoreProfile.ImageTransparentColor' does not exist in the current context.
+The name 'tsbRestoreProfile' does not exist in the current context.
+The name 'ImageTransparentColor' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'System.Drawing.Color.Magenta' does not exist in the current context.
+The name 'Magenta' does not exist in the current context.
+Invalid token ';' in a member declaration
+The name 'tsbRestoreProfile.Name' does not exist in the current context.
+The name 'tsbRestoreProfile' does not exist in the current context.
+The name 'Name' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'tsbRestoreProfile.Size' does not exist in the current context.
+The name 'tsbRestoreProfile' does not exist in the current context.
+The name 'Size' does not exist in the current context.
+Invalid token '=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '24' in a member declaration
+The name 'tsbRestoreProfile.Text' does not exist in the current context.
+The name 'tsbRestoreProfile' does not exist in the current context.
+The name 'Text' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'tsbRestoreProfile.Click' does not exist in the current context.
+The name 'tsbRestoreProfile' does not exist in the current context.
+The name 'Click' does not exist in the current context.
+Invalid token '+=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+'frmDrvSettings.this[tsbRestoreProfile_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbRestoreProfile_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+Tuple must contain at least two elements.
+Tuple must contain at least two elements.
+) expected
+The name 'resources.GetObject' does not exist in the current context.
+The name 'resources' does not exist in the current context.
+The name 'GetObject' does not exist in the current context.
+Tuple must contain at least two elements.
+) expected
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '"tsbCreateProfile.Image"' in a member declaration
+The name 'tsbCreateProfile.ImageTransparentColor' does not exist in the current context.
+The name 'tsbCreateProfile' does not exist in the current context.
+The name 'ImageTransparentColor' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'System.Drawing.Color.Magenta' does not exist in the current context.
+The name 'Magenta' does not exist in the current context.
+Invalid token ';' in a member declaration
+The name 'tsbCreateProfile.Name' does not exist in the current context.
+The name 'tsbCreateProfile' does not exist in the current context.
+The name 'Name' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'tsbCreateProfile.Size' does not exist in the current context.
+The name 'tsbCreateProfile' does not exist in the current context.
+The name 'Size' does not exist in the current context.
+Invalid token '=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '24' in a member declaration
+The name 'tsbCreateProfile.Text' does not exist in the current context.
+The name 'tsbCreateProfile' does not exist in the current context.
+The name 'Text' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'tsbCreateProfile.Click' does not exist in the current context.
+The name 'tsbCreateProfile' does not exist in the current context.
+The name 'Click' does not exist in the current context.
+Invalid token '+=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+'frmDrvSettings.this[tsbCreateProfile_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbCreateProfile_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '24' in a member declaration
+The name 'tsbDeleteProfile.Text' does not exist in the current context.
+The name 'tsbDeleteProfile' does not exist in the current context.
+The name 'Text' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'tsbDeleteProfile.Click' does not exist in the current context.
+The name 'tsbDeleteProfile' does not exist in the current context.
+The name 'Click' does not exist in the current context.
+Invalid token '+=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+'frmDrvSettings.this[tsbDeleteProfile_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbDeleteProfile_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '6' in a member declaration
+The name 'tsbAddApplication.DisplayStyle' does not exist in the current context.
+The name 'tsbAddApplication' does not exist in the current context.
+The name 'DisplayStyle' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'System.Windows.Forms.ToolStripItemDisplayStyle.Image' does not exist in the current context.
+The name 'Image' does not exist in the current context.
+Invalid token ';' in a member declaration
+The name 'tsbAddApplication.Image' does not exist in the current context.
+The name 'tsbAddApplication' does not exist in the current context.
+The name 'Image' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'global::nspector.Properties.Resources.window_application_add' does not exist in the current context.
+The name 'window_application_add' does not exist in the current context.
+Invalid token ';' in a member declaration
+The name 'tsbAddApplication.ImageTransparentColor' does not exist in the current context.
+The name 'tsbAddApplication' does not exist in the current context.
+The name 'ImageTransparentColor' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'System.Drawing.Color.Magenta' does not exist in the current context.
+The name 'Magenta' does not exist in the current context.
+Invalid token ';' in a member declaration
+The name 'tsbAddApplication.Name' does not exist in the current context.
+The name 'tsbAddApplication' does not exist in the current context.
+The name 'Name' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'tsbAddApplication.Size' does not exist in the current context.
+The name 'tsbAddApplication' does not exist in the current context.
+The name 'Size' does not exist in the current context.
+Invalid token '=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '24' in a member declaration
+The name 'tsbAddApplication.Text' does not exist in the current context.
+The name 'tsbAddApplication' does not exist in the current context.
+The name 'Text' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'tsbAddApplication.Click' does not exist in the current context.
+The name 'tsbAddApplication' does not exist in the current context.
+The name 'Click' does not exist in the current context.
+Invalid token '+=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+'frmDrvSettings.this[tsbAddApplication_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbAddApplication_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '36' in a member declaration
+The name 'tssbRemoveApplication.Text' does not exist in the current context.
+The name 'tssbRemoveApplication' does not exist in the current context.
+The name 'Text' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'tssbRemoveApplication.DropDownItemClicked' does not exist in the current context.
+The name 'tssbRemoveApplication' does not exist in the current context.
+The name 'DropDownItemClicked' does not exist in the current context.
+Invalid token '+=' in a member declaration
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+'frmDrvSettings.this[tssbRemoveApplication_DropDownItemClicked]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tssbRemoveApplication_DropDownItemClicked' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+'frmDrvSettings.this[tssbRemoveApplication_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tssbRemoveApplication_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '6' in a member declaration
+The name 'tsbExportProfiles.DisplayStyle' does not exist in the current context.
+The name 'tsbExportProfiles' does not exist in the current context.
+The name 'DisplayStyle' does not exist in the current context.
+Invalid token '=' in a member declaration
+The name 'System.Windows.Forms.ToolStripItemDisplayStyle.Image' does not exist in the current context.
+The name 'Image' does not exist in the current context.
+Invalid token ';' in a member declaration
+The name 'tsbExportProfiles.DropDownItems.AddRange' does not exist in the current context.
+The name 'tsbExportProfiles.DropDownItems' does not exist in the current context.
+The name 'tsbExportProfiles' does not exist in the current context.
+The name 'DropDownItems' does not exist in the current context.
+The name 'AddRange' does not exist in the current context.
+Invalid token '(' in a member declaration
+Type expected
+Tuple must contain at least two elements.
+) expected
+Invalid token '{' in a member declaration
+The name 'exportCurrentProfileOnlyToolStripMenuItem' does not exist in the current context.
+Invalid token ',' in a member declaration
+The name 'exportCurrentProfileIncludingPredefinedSettingsToolStripMenuItem' does not exist in the current context.
+Invalid token ',' in a member declaration
+The name 'exportUserdefinedProfilesToolStripMenuItem' does not exist in the current context.
+Invalid token ',' in a member declaration
+The name 'exportAllProfilesNVIDIATextFormatToolStripMenuItem' does not exist in the current context.
+Invalid token '}' in a member declaration
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tsbExportProfiles.Image]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbExportProfiles' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tsbExportProfiles.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbExportProfiles' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'tsbExportProfiles.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[tsbExportProfiles_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbExportProfiles_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[exportCurrentProfileOnlyToolStripMenuItem.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'exportCurrentProfileOnlyToolStripMenuItem' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'exportCurrentProfileOnlyToolStripMenuItem.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[exportCurrentProfileOnlyToolStripMenuItem_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'exportCurrentProfileOnlyToolStripMenuItem_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[exportCurrentProfileIncludingPredefinedSettingsToolStripMenuItem.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'exportCurrentProfileIncludingPredefinedSettingsToolStripMenuItem' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'exportCurrentProfileIncludingPredefinedSettingsToolStripMenuItem.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[exportCurrentProfileIncludingPredefinedSettingsToolStripMenuItem_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'exportCurrentProfileIncludingPredefinedSettingsToolStripMenuItem_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[exportUserdefinedProfilesToolStripMenuItem.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'exportUserdefinedProfilesToolStripMenuItem' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'exportUserdefinedProfilesToolStripMenuItem.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[exportUserdefinedProfilesToolStripMenuItem_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'exportUserdefinedProfilesToolStripMenuItem_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[exportAllProfilesNVIDIATextFormatToolStripMenuItem.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'exportAllProfilesNVIDIATextFormatToolStripMenuItem' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'exportAllProfilesNVIDIATextFormatToolStripMenuItem.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[exportAllProfilesNVIDIATextFormatToolStripMenuItem_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'exportAllProfilesNVIDIATextFormatToolStripMenuItem_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[importProfilesToolStripMenuItem, ?, importAllProfilesNVIDIATextFormatToolStripMenuItem]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'importProfilesToolStripMenuItem' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Keyword 'this' is not available in the current context
+Method 'this[]' has a parameter modifier 'this' which is not on the first parameter
+Type expected
+Identifier expected
+Syntax error, ',' expected
+Syntax error, ',' expected
+The type or namespace name 'importAllProfilesNVIDIATextFormatToolStripMenuItem' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tsbImportProfiles.Image]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbImportProfiles' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tsbImportProfiles.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbImportProfiles' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'tsbImportProfiles.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[tsbImportProfiles_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbImportProfiles_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[importProfilesToolStripMenuItem.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'importProfilesToolStripMenuItem' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'importProfilesToolStripMenuItem.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[importProfilesToolStripMenuItem_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'importProfilesToolStripMenuItem_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[importAllProfilesNVIDIATextFormatToolStripMenuItem.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'importAllProfilesNVIDIATextFormatToolStripMenuItem' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'importAllProfilesNVIDIATextFormatToolStripMenuItem.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[importAllProfilesNVIDIATextFormatToolStripMenuItem_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'importAllProfilesNVIDIATextFormatToolStripMenuItem_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tscbShowCustomSettingNamesOnly.CheckOnClick]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tscbShowCustomSettingNamesOnly' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'bool' cannot be used as a default parameter because there are no standard conversions to type 'tscbShowCustomSettingNamesOnly.CheckOnClick'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tscbShowCustomSettingNamesOnly.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tscbShowCustomSettingNamesOnly' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'tscbShowCustomSettingNamesOnly.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[cbCustomSettingsOnly_CheckedChanged]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'cbCustomSettingsOnly_CheckedChanged' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tscbShowScannedUnknownSettings.CheckOnClick]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tscbShowScannedUnknownSettings' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'bool' cannot be used as a default parameter because there are no standard conversions to type 'tscbShowScannedUnknownSettings.CheckOnClick'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tscbShowScannedUnknownSettings.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tscbShowScannedUnknownSettings' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'tscbShowScannedUnknownSettings.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[tscbShowScannedUnknownSettings_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tscbShowScannedUnknownSettings_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tsbBitValueEditor.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbBitValueEditor' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'tsbBitValueEditor.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[tsbBitValueEditor_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbBitValueEditor_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tsbApplyProfile.Alignment]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbApplyProfile' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'ToolStripItemAlignment' cannot be used as a default parameter because there are no standard conversions to type 'tsbApplyProfile.Alignment'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tsbApplyProfile.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbApplyProfile' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'tsbApplyProfile.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[tsbApplyProfile_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbApplyProfile_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[btnResetValue.Margin]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'btnResetValue' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[btnResetValue.TabIndex]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'btnResetValue' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'int' cannot be used as a default parameter because there are no standard conversions to type 'btnResetValue.TabIndex'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[btnResetValue_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'btnResetValue_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lblApplications.Margin]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lblApplications' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lblApplications.TabIndex]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lblApplications' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'int' cannot be used as a default parameter because there are no standard conversions to type 'lblApplications.TabIndex'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[tsbAddApplication_Click]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tsbAddApplication_Click' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[toolStripButton5.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'toolStripButton5' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'toolStripButton5.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[toolStripLabel2.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'toolStripLabel2' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'toolStripLabel2.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[toolStripButton6.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'toolStripButton6' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'toolStripButton6.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Tuple must contain at least two elements.
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[themeDropDown.DisplayStyle]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'themeDropDown' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'ToolStripItemDisplayStyle' cannot be used as a default parameter because there are no standard conversions to type 'themeDropDown.DisplayStyle'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[themeDropDown.Text]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'themeDropDown' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'themeDropDown.Text'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[ilCombo.TransparentColor]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'ilCombo' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[cbValues.Margin]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'cbValues' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[cbValues.TabIndex]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'cbValues' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'int' cannot be used as a default parameter because there are no standard conversions to type 'cbValues.TabIndex'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[cbValues_SelectedValueChanged]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'cbValues_SelectedValueChanged' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[cbValues_Leave]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'cbValues_Leave' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lblWidth96.Margin]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lblWidth96' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lblWidth96.TabIndex]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lblWidth96' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'int' cannot be used as a default parameter because there are no standard conversions to type 'lblWidth96.TabIndex'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lblWidth330.Margin]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lblWidth330' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lblWidth330.TabIndex]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lblWidth330' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'int' cannot be used as a default parameter because there are no standard conversions to type 'lblWidth330.TabIndex'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lblWidth16.Margin]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lblWidth16' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lblWidth16.TabIndex]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lblWidth16' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'int' cannot be used as a default parameter because there are no standard conversions to type 'lblWidth16.TabIndex'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lblWidth30.Margin]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lblWidth30' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lblWidth30.TabIndex]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lblWidth30' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'int' cannot be used as a default parameter because there are no standard conversions to type 'lblWidth30.TabIndex'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[chSettingID, ?, chSettingValue, ?, chSettingValueHex]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'chSettingID' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Keyword 'this' is not available in the current context
+Method 'this[]' has a parameter modifier 'this' which is not on the first parameter
+Type expected
+Identifier expected
+Syntax error, ',' expected
+Syntax error, ',' expected
+The type or namespace name 'chSettingValue' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Keyword 'this' is not available in the current context
+Method 'this[]' has a parameter modifier 'this' which is not on the first parameter
+Type expected
+Identifier expected
+Syntax error, ',' expected
+Syntax error, ',' expected
+The type or namespace name 'chSettingValueHex' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lvSettings.Dock]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lvSettings' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'DockStyle' cannot be used as a default parameter because there are no standard conversions to type 'lvSettings.Dock'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lvSettings.Margin]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lvSettings' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[lvSettings.SmallImageList]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lvSettings' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+'<invalid-global-code>.ilListView' is inaccessible due to its protection level
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[lvSettings_GroupStateChanged]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lvSettings_GroupStateChanged' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[lvSettings_ColumnWidthChanging]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lvSettings_ColumnWidthChanging' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[lvSettings_SelectedIndexChanged]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lvSettings_SelectedIndexChanged' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[lvSettings_DoubleClick]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lvSettings_DoubleClick' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[lvSettings_KeyDown]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lvSettings_KeyDown' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[lvSettings_Resize]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'lvSettings_Resize' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tbSettingDescription.Multiline]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tbSettingDescription' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'bool' cannot be used as a default parameter because there are no standard conversions to type 'tbSettingDescription.Multiline'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[tbSettingDescription.TabIndex]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'tbSettingDescription' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'int' cannot be used as a default parameter because there are no standard conversions to type 'tbSettingDescription.TabIndex'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[pnlListview.Name]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'pnlListview' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'pnlListview.Name'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[pnlListview.TabIndex]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'pnlListview' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'int' cannot be used as a default parameter because there are no standard conversions to type 'pnlListview.TabIndex'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+The name 'System.Drawing.FontStyle.Regular' does not exist in the current context.
+A namespace cannot directly contain members such as fields, methods or statements
+The name 'Regular' does not exist in the current context.
+Type or namespace definition, or end-of-file expected
+The name 'System.Drawing.GraphicsUnit.Point' does not exist in the current context.
+A namespace cannot directly contain members such as fields, methods or statements
+The name 'Point' does not exist in the current context.
+Type or namespace definition, or end-of-file expected
+Tuple must contain at least two elements.
+Tuple must contain at least two elements.
+) expected
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[txtFilter.Location]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'txtFilter' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[txtFilter.Name]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'txtFilter' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'string' cannot be used as a default parameter because there are no standard conversions to type 'txtFilter.Name'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[txtFilter.TabIndex]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'txtFilter' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'int' cannot be used as a default parameter because there are no standard conversions to type 'txtFilter.TabIndex'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[txtFilter_TextChanged]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'txtFilter_TextChanged' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[txtFilter_KeyUp]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'txtFilter_KeyUp' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[AutoScaleMode]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'AutoScaleMode' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+A value of type 'AutoScaleMode' cannot be used as a default parameter because there are no standard conversions to type 'AutoScaleMode'
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[Controls.Add, (?, ?), ?, pnlListview]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'Controls' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ',' expected
+Type expected
+Tuple must contain at least two elements.
+) expected
+Identifier expected
+Syntax error, ',' expected
+Keyword 'this' is not available in the current context
+Method 'this[]' has a parameter modifier 'this' which is not on the first parameter
+Type expected
+Identifier expected
+Syntax error, ',' expected
+Syntax error, ',' expected
+The type or namespace name 'pnlListview' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+Type or namespace definition, or end-of-file expected
+Type expected
+'<invalid-global-code>.this[MinimumSize]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'MinimumSize' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Default parameter value for '' must be a compile-time constant
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[frmDrvSettings_Activated]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'frmDrvSettings_Activated' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[frmDrvSettings_FormClosed]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'frmDrvSettings_FormClosed' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[frmDrvSettings_Load]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'frmDrvSettings_Load' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+} expected
+A namespace cannot directly contain members such as fields, methods or statements
+Type expected
+Tuple must contain at least two elements.
+) expected
+'<invalid-global-code>.this[frmDrvSettings_Shown]': property or indexer must have at least one accessor
+Syntax error, '[' expected
+Identifier expected
+The type or namespace name 'frmDrvSettings_Shown' could not be found (are you missing a using directive or an assembly reference?)
+Identifier expected
+Syntax error, ']' expected
+{ expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A get or set accessor expected
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+A namespace cannot directly contain members such as fields, methods or statements
+Type or namespace definition, or end-of-file expected
+This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+The default value specified for parameter '' will have no effect because it applies to a member that is used in contexts that do not allow optional arguments
+Naming rule violation: These words must begin with upper case characters: frmDrvSettings
+Collection initialization can be simplified
+'new' expression can be simplified
+Make field readonly
+Make field readonly
+'new' expression can be simplified
+Make field readonly
+'new' expression can be simplified
+'new' expression can be simplified
+Object initialization can be simplified
+Variable declaration can be inlined
+Variable declaration can be inlined
+Variable declaration can be inlined
+Naming rule violation: These words must begin with upper case characters: frmDrvSettings_Load
+Naming rule violation: These words must begin with upper case characters: lvSettings_GroupStateChanged
+Naming rule violation: These words must begin with upper case characters: lvSettings_SelectedIndexChanged
+Naming rule violation: These words must begin with upper case characters: cbValues_SelectedValueChanged
+Naming rule violation: These words must begin with upper case characters: cbValues_Leave
+Naming rule violation: These words must begin with upper case characters: btnResetValue_Click
+Make field readonly
+'new' expression can be simplified
+Naming rule violation: These words must begin with upper case characters: cbProfiles_SelectedIndexChanged
+Naming rule violation: These words must begin with upper case characters: cbCustomSettingsOnly_CheckedChanged
+Naming rule violation: These words must begin with upper case characters: tsbRestoreProfile_Click
+Naming rule violation: These words must begin with upper case characters: tsbRefreshProfile_Click
+Naming rule violation: These words must begin with upper case characters: tsbApplyProfile_Click
+Naming rule violation: These words must begin with upper case characters: tsbBitValueEditor_Click
+Naming rule violation: These words must begin with upper case characters: tscbShowScannedUnknownSettings_Click
+Naming rule violation: These words must begin with upper case characters: lvSettings_Resize
+Naming rule violation: These words must begin with upper case characters: lvSettings_ColumnWidthChanging
+Naming rule violation: These words must begin with upper case characters: frmDrvSettings_Shown
+Naming rule violation: These words must begin with upper case characters: tsbDeleteProfile_Click
+Naming rule violation: These words must begin with upper case characters: tsbAddApplication_Click
+Collection initialization can be simplified
+Naming rule violation: These words must begin with upper case characters: tssbRemoveApplication_DropDownItemClicked
+Naming rule violation: These words must begin with upper case characters: tsbCreateProfile_Click
+Naming rule violation: These words must begin with upper case characters: tsbExportProfiles_Click
+Naming rule violation: These words must begin with upper case characters: tsbImportProfiles_Click
+Naming rule violation: These words must begin with upper case characters: exportUserdefinedProfilesToolStripMenuItem_Click
+Object initialization can be simplified
+Naming rule violation: These words must begin with upper case characters: exportCurrentProfileOnlyToolStripMenuItem_Click
+Naming rule violation: These words must begin with upper case characters: exportCurrentProfileIncludingPredefinedSettingsToolStripMenuItem_Click
+Naming rule violation: These words must begin with upper case characters: tssbRemoveApplication_Click
+Naming rule violation: These words must begin with upper case characters: tsbModifiedProfiles_DropDownItemClicked
+Naming rule violation: These words must begin with upper case characters: tsbModifiedProfiles_ButtonClick
+Naming rule violation: These words must begin with upper case characters: frmDrvSettings_Activated
+Naming rule violation: These words must begin with upper case characters: exportAllProfilesNVIDIATextFormatToolStripMenuItem_Click
+Object initialization can be simplified
+Naming rule violation: These words must begin with upper case characters: importAllProfilesNVIDIATextFormatToolStripMenuItem_Click
+Object initialization can be simplified
+Naming rule violation: These words must begin with upper case characters: importProfilesToolStripMenuItem_Click
+Object initialization can be simplified
+Naming rule violation: These words must begin with upper case characters: cbProfiles_TextChanged
+Naming rule violation: These words must begin with upper case characters: lvSettings_OnDropFilesNative
+Variable declaration can be inlined
+Naming rule violation: These words must begin with upper case characters: lvSettings_DoubleClick
+Use compound assignment
+Naming rule violation: These words must begin with upper case characters: frmDrvSettings_FormClosed
+Naming rule violation: These words must begin with upper case characters: lvSettings_KeyDown
+Naming rule violation: These words must begin with upper case characters: txtFilter_TextChanged
+Naming rule violation: These words must begin with upper case characters: txtFilter_KeyUp
+Use primary constructor
+Naming rule violation: These words must begin with upper case characters: cbProfiles_Click
