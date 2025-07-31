@@ -33,10 +33,10 @@ namespace nspector
             this.ilListView = new System.Windows.Forms.ImageList(this.components);
             this.pbMain = new System.Windows.Forms.ProgressBar();
             this.tsMain = new System.Windows.Forms.ToolStrip();
+            this.themeDropDown = new System.Windows.Forms.ToolStripDropDownButton();
             this.tslProfiles = new System.Windows.Forms.ToolStripLabel();
             this.cbProfiles = new System.Windows.Forms.ToolStripComboBox();
             this.tsbModifiedProfiles = new System.Windows.Forms.ToolStripSplitButton();
-            this.themeDropDown = new System.Windows.Forms.ToolStripDropDownButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.tsbRefreshProfile = new System.Windows.Forms.ToolStripButton();
             this.tsbRestoreProfile = new System.Windows.Forms.ToolStripButton();
@@ -631,6 +631,7 @@ namespace nspector
         private System.Windows.Forms.Button btnResetValue;
         private System.Windows.Forms.ProgressBar pbMain;
         private System.Windows.Forms.ToolStrip tsMain;
+        private System.Windows.Forms.ToolStripDropDownButton themeDropDown;
         private System.Windows.Forms.ToolStripButton tsbRestoreProfile;
         private System.Windows.Forms.ToolStripButton tsbApplyProfile;
         private System.Windows.Forms.ToolStripButton tsbRefreshProfile;
@@ -667,7 +668,6 @@ namespace nspector
         private System.Windows.Forms.Label lblWidth16;
         private System.Windows.Forms.Label lblWidth30;
         private System.Windows.Forms.ToolStripMenuItem exportCurrentProfileIncludingPredefinedSettingsToolStripMenuItem;
-        private System.Windows.Forms.ToolStripDropDownButton themeDropDown;
         private System.Windows.Forms.TextBox tbSettingDescription;
         private System.Windows.Forms.Panel pnlListview;
         private WatermarkTextBox txtFilter;
