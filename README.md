@@ -24,7 +24,7 @@ Other than the stated things above, here's some additional changes the tool make
 - Improved error messaging
 - Improved performance (faster load, etc)
 
-## What is NVPI?
+## What is NVPI-R?
 
 ![](/nspector/Images/n1-016.png) **NVIDIA Profile Inspector**
 
