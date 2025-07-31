@@ -1,10 +1,8 @@
 using nspector.Common;
-using nspector.Common.CustomSettings;
 using nspector.Common.Helper;
 using nspector.Native.NVAPI2;
 using nspector.Native.WINAPI;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Drawing;
@@ -12,9 +10,6 @@ using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Reflection;
-using System.Runtime.InteropServices;
-using System.Runtime.Remoting.Contexts;
-using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -47,49 +42,6 @@ namespace nspector
         private bool _isDevMode = false;
 
         private UserSettings _settings = null;
-
-        // // // // // // // // 
-        // DARK MODE SECTION // 
-        // // // // // // // // 
-
-        // DarkMode: Theme presets
-        private static Theme DarkThemePreset = new Theme(
-            bg: Color.FromArgb(31, 31, 31),
-            fg: Color.White,
-            sel: Color.FromArgb(0, 120, 215),
-            header: Color.FromArgb(30, 30, 30),
-            mod: Color.White,
-            unmod: Color.LightGray
-        );
-
-        private static Theme LightThemePreset = new Theme(
-            bg: Color.White,
-            fg: Color.Black,
-            sel: Color.FromArgb(204, 228, 247),
-            header: Color.LightGray,
-            mod: Color.Black,
-            unmod: Color.DarkGray
-        );
-
-        private static Theme ActiveTheme = DarkThemePreset; // Defaults to dark
-
-        // DarkMode: Activate theme presets
-        private void SetTheme(string theme)
-        {
-            if (theme == "dark")
-                ActiveTheme = DarkThemePreset;
-            else
-                ActiveTheme = LightThemePreset;
-
-            lvSettings.BackColor = ActiveTheme.BackgroundColor;
-            lvSettings.ForeColor = ActiveTheme.ForegroundColor;
-
-            lvSettings.Invalidate(); // Force redraw
-        }
-
-        // // // // // // // // 
-        // DARK MODE SECTION // 
-        // // // // // // // // 
 
         protected override void WndProc(ref Message m)
         {
@@ -167,12 +119,12 @@ namespace nspector
 
         // DarkMode: Remove header visual styles END
 
-        private void RefreshApplicationsCombosAndText(Dictionary<string,string> applications)
+        private void RefreshApplicationsCombosAndText(Dictionary<string, string> applications)
         {
             lblApplications.Text = "";
             tssbRemoveApplication.DropDownItems.Clear();
 
-            lblApplications.Text = " " + string.Join(", ", applications.Select(x=>x.Value));
+            lblApplications.Text = " " + string.Join(", ", applications.Select(x => x.Value));
             foreach (var app in applications)
             {
                 var item = tssbRemoveApplication.DropDownItems.Add(app.Value, Properties.Resources.ieframe_1_18212);
@@ -202,7 +154,7 @@ namespace nspector
             {
                 lvSettings.Items.Clear();
                 lvSettings.Groups.Clear();
-                var applications = new Dictionary<string,string>();
+                var applications = new Dictionary<string, string>();
 
                 _currentProfileSettingItems = _drs.GetSettingsForProfile(_CurrentProfile, GetSettingViewMode(), ref applications);
                 RefreshApplicationsCombosAndText(applications);
@@ -323,7 +275,7 @@ namespace nspector
 
                             tsbBitValueEditor.Enabled = valueNames.Count > 0;
 
-                            
+
                         }
 
                         if (settingMeta.SettingType == Native.NVAPI2.NVDRS_SETTING_TYPE.NVDRS_WSTRING_TYPE && settingMeta.StringValues != null)
@@ -640,17 +592,6 @@ namespace nspector
             Icon = Icon.ExtractAssociatedIcon(Application.ExecutablePath);
         }
 
-        // DarkMode: Theme Menu Item Click Handler
-        private void ThemeMenuItem_Click(object sender, EventArgs e)
-        {
-            if (sender is ToolStripMenuItem item)
-            {
-                string selected = item.Text;
-                if (selected == "Dark Theme") SetTheme("dark");
-                else if (selected == "Light Theme") SetTheme("light");
-            }
-        }
-
         // DarkMode: Drawing Handlers (Custom Colors)
 
         private void ListViewEx_DrawItem(object sender, DrawListViewItemEventArgs e)
@@ -663,22 +604,44 @@ namespace nspector
             bool isSelected = e.Item.Selected;
             bool isChanged = IsModifiedSetting(e.Item);
 
-            Color bgColor = isSelected ? ActiveTheme.SelectionColor : ActiveTheme.BackgroundColor;
-            Color fgColor = isSelected ? ActiveTheme.ForegroundColor :
-                            isChanged ? ActiveTheme.ModifiedSettingColor : ActiveTheme.UnmodifiedSettingColor;
+            // pick background
+            Color bgColor = isSelected
+                ? Color.FromArgb(0, 120, 215)
+                : Color.FromArgb(31, 31, 31);
 
+            // pick text
+            Color fgColor = isSelected
+                ? Color.White
+                : isChanged
+                    ? Color.White
+                    : Color.LightGray;
+
+            // fill background
             using (var bgBrush = new SolidBrush(bgColor))
                 e.Graphics.FillRectangle(bgBrush, e.Bounds);
 
-            TextRenderer.DrawText(e.Graphics, e.SubItem.Text, e.SubItem.Font, e.Bounds, fgColor, TextFormatFlags.VerticalCenter | TextFormatFlags.Left);
+            // draw text
+            TextRenderer.DrawText(
+                e.Graphics,
+                e.SubItem.Text,
+                e.SubItem.Font,
+                e.Bounds,
+                fgColor,
+                TextFormatFlags.VerticalCenter | TextFormatFlags.Left
+            );
+
+            // **THIS IS THE KEY**: prevent the default paint step
+            e.DrawDefault = false;
         }
 
-        // DarkMode: Inside the frmDrvSettings class, after your drawing methods:
-
+        // ------------------------------------------------------------------
+        // Helper: detect if a setting was changed from its default
+        // ------------------------------------------------------------------
         private bool IsModifiedSetting(ListViewItem item)
         {
-
-            return false;
+            // The original app sets ForeColor = SystemColors.GrayText on "unchanged" items.
+            // Anything else we treat as "modified."
+            return item.ForeColor != SystemColors.GrayText;
         }
 
         // // // // // // // // 
@@ -954,7 +917,7 @@ namespace nspector
             {
                 await _scanner.ScanProfileSettingsAsync(true, progressHandler, _scannerCancelationTokenSource.Token);
             }
-                        
+
             RefreshModifiesProfilesDropDown();
             tsbModifiedProfiles.Enabled = true;
 
@@ -1440,7 +1403,7 @@ namespace nspector
 
         private void SaveSettings()
         {
-            if(_settings == null)
+            if (_settings == null)
                 _settings = UserSettings.LoadSettings();
             if (WindowState == FormWindowState.Normal)
             {
@@ -1509,7 +1472,7 @@ namespace nspector
             else if (!e.Control && (e.KeyCode >= Keys.A && e.KeyCode <= Keys.Z ||
                 e.KeyCode >= Keys.D0 && e.KeyCode <= Keys.D9 ||
                 e.KeyCode >= Keys.NumPad0 && e.KeyCode <= Keys.NumPad9 ||
-                e.KeyCode == Keys.Space || e.KeyCode == Keys.OemPeriod || 
+                e.KeyCode == Keys.Space || e.KeyCode == Keys.OemPeriod ||
                 e.KeyCode == Keys.Back))
             {
                 txtFilter.Focus();
@@ -1534,7 +1497,7 @@ namespace nspector
         {
             RefreshCurrentProfile();
 
-            if(!string.IsNullOrEmpty(txtFilter.Text))
+            if (!string.IsNullOrEmpty(txtFilter.Text))
                 txtFilter.Focus(); // Setting listbox sometimes steals focus away
         }
 
@@ -1580,7 +1543,7 @@ namespace nspector
                         if (meta.SettingType != NVDRS_SETTING_TYPE.NVDRS_DWORD_TYPE) continue;
 
                         var wasNotSet = new int[] { 1, 2, 3 }.Contains(item.ImageIndex);
-                        
+
                         if (wasNotSet)
                         {
                             _drs.SetDwordValueToProfile(_CurrentProfile, settingId, 0x0);
@@ -1626,7 +1589,7 @@ namespace nspector
                 {
                     if (item.ImageIndex != 0) continue;
 
-                    if(!groupTitleAdded)
+                    if (!groupTitleAdded)
                     {
                         sbSettings.AppendFormat("\r\n[{0}]\r\n", group.Header);
                         groupTitleAdded = true;
@@ -1634,7 +1597,7 @@ namespace nspector
                     sbSettings.AppendFormat("{0,-40} {1}\r\n", item.Text, item.SubItems[1].Text);
                 }
             }
-            
+
             Clipboard.SetText(sbSettings.ToString());
         }
 
@@ -1648,30 +1611,6 @@ namespace nspector
             {
                 ToggleDevMode();
             }
-        }
-        public class Theme
-        {
-            public Color BackgroundColor;
-            public Color ForegroundColor;
-            public Color SelectionColor;
-            public Color ColumnHeaderBg;
-            public Color ModifiedSettingColor;
-            public Color UnmodifiedSettingColor;
-
-            public Theme(Color bg, Color fg, Color sel, Color header, Color mod, Color unmod)
-            {
-                BackgroundColor = bg;
-                ForegroundColor = fg;
-                SelectionColor = sel;
-                ColumnHeaderBg = header;
-                ModifiedSettingColor = mod;
-                UnmodifiedSettingColor = unmod;
-            }
-        }
-
-        private void cbProfiles_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
