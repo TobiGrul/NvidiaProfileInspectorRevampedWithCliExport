@@ -38,7 +38,7 @@ For more information how to use this tool, you can find some useful informative 
 
 <img width="1144" height="645" alt="Untitled" src="https://github.com/user-attachments/assets/c6798f49-061a-406b-b5b3-bcde607d4563" />
 
-<img width="1229" height="1205" alt="Untitled2" src="https://github.com/user-attachments/assets/8e1e5ed4-359c-4ae3-8eec-df58c922be6e" />
+<img width="614" height="614" alt="Untitled2" src="https://github.com/user-attachments/assets/8e1e5ed4-359c-4ae3-8eec-df58c922be6e" />
 
 ## Socials & Donations
 
