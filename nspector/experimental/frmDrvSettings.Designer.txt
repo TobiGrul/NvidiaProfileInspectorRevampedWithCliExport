@@ -36,6 +36,12 @@ namespace nspector
             this.themeDropDown = new System.Windows.Forms.ToolStripDropDownButton();
             this.tslProfiles = new System.Windows.Forms.ToolStripLabel();
             this.cbProfiles = new System.Windows.Forms.ToolStripComboBox();
+            this.themeDropDown.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.themeDropDown.Name = "themeDropDown";
+            this.themeDropDown.Size = new System.Drawing.Size(55, 22);
+            this.themeDropDown.Text = "Theme";
+            this.themeDropDown.DropDownItems.Add("Dark").Click += (s, e) => ApplyTheme("Dark");
+            this.themeDropDown.DropDownItems.Add("Light").Click += (s, e) => ApplyTheme("Light");
             this.tsbModifiedProfiles = new System.Windows.Forms.ToolStripSplitButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.tsbRefreshProfile = new System.Windows.Forms.ToolStripButton();
@@ -437,15 +443,6 @@ namespace nspector
             this.toolStripButton6.Name = "toolStripButton6";
             this.toolStripButton6.Size = new System.Drawing.Size(23, 22);
             this.toolStripButton6.Text = "toolStripButton6";
-            // 
-            // themeDropDown
-            // 
-            this.themeDropDown.Text = "Theme";
-            this.themeDropDown.DisplayStyle = ToolStripItemDisplayStyle.Text; // or ImageAndText
-            this.themeDropDown.DropDownItems.Add("Dark").Click += (s, e) => ApplyTheme("Dark");
-            this.themeDropDown.DropDownItems.Add("Light").Click += (s, e) => ApplyTheme("Light");
-            this.themeDropDown.Name = "themeDropDown";
-            this.themeDropDown.Size = new System.Drawing.Size(80, 22);
             // 
             // ilCombo
             // 
