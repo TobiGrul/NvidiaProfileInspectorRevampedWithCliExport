@@ -589,6 +589,9 @@ namespace nspector
 
             tscbShowCustomSettingNamesOnly.Checked = showCsnOnly;
             Icon = Icon.ExtractAssociatedIcon(Application.ExecutablePath);
+
+            // KeyUp has to be set on the inner control for us to receive Enter key...
+            cbProfiles.Control.KeyUp += cbProfiles_KeyUp;
         }
 
         // DarkMode: Drawing Handlers (Custom Colors)
@@ -657,16 +660,6 @@ namespace nspector
 
         lblApplications.Text = "";
 
-            InitTaskbarList();
-            SetupDropFilesNative();
-            SetupToolbar();
-            SetupDpiAdjustments();
-
-            tscbShowCustomSettingNamesOnly.Checked = showCsnOnly;
-            Icon = Icon.ExtractAssociatedIcon(Application.ExecutablePath);
-
-            // KeyUp has to be set on the inner control for us to receive Enter key...
-            cbProfiles.Control.KeyUp += cbProfiles_KeyUp;
         }
 
         public static double ScaleFactor = 1;
