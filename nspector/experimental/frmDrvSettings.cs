@@ -87,7 +87,7 @@ namespace nspector
             var item = new ListViewItem(settingName);
             item.Tag = setting.SettingId;
             item.Group = group;
-
+            
             item.SubItems.Add(setting.ValueText);
             item.SubItems.Add(setting.ValueRaw);
 
@@ -117,14 +117,12 @@ namespace nspector
             return item;
         }
 
-        // DarkMode: Remove header visual styles END
-
-        private void RefreshApplicationsCombosAndText(Dictionary<string, string> applications)
+        private void RefreshApplicationsCombosAndText(Dictionary<string,string> applications)
         {
             lblApplications.Text = "";
             tssbRemoveApplication.DropDownItems.Clear();
 
-            lblApplications.Text = " " + string.Join(", ", applications.Select(x => x.Value));
+            lblApplications.Text = " " + string.Join(", ", applications.Select(x=>x.Value));
             foreach (var app in applications)
             {
                 var item = tssbRemoveApplication.DropDownItems.Add(app.Value, Properties.Resources.ieframe_1_18212);
@@ -154,12 +152,12 @@ namespace nspector
             {
                 lvSettings.Items.Clear();
                 lvSettings.Groups.Clear();
-                var applications = new Dictionary<string, string>();
+                var applications = new Dictionary<string,string>();
 
                 _currentProfileSettingItems = _drs.GetSettingsForProfile(_CurrentProfile, GetSettingViewMode(), ref applications);
                 RefreshApplicationsCombosAndText(applications);
 
-                var searchFilter = txtFilter.Text.Trim().ToLowerInvariant();
+                var searchFilter = txtFilter.Text.Trim();
 
                 foreach (var settingItem in _currentProfileSettingItems)
                 {
@@ -169,8 +167,9 @@ namespace nspector
 
                     // Apply search filter if set
                     if (!string.IsNullOrEmpty(searchFilter) &&
-                        !item.Text.ToLowerInvariant().Contains(searchFilter) &&
-                        (settingItem.AlternateNames == null || !settingItem.AlternateNames.ToLower().Contains(searchFilter)))
+                        item.Text.IndexOf(searchFilter, StringComparison.OrdinalIgnoreCase) < 0 &&
+                        (settingItem.AlternateNames == null ||
+                         settingItem.AlternateNames.IndexOf(searchFilter, StringComparison.OrdinalIgnoreCase) < 0))
                     {
                         continue;
                     }
@@ -275,7 +274,7 @@ namespace nspector
 
                             tsbBitValueEditor.Enabled = valueNames.Count > 0;
 
-
+                            
                         }
 
                         if (settingMeta.SettingType == Native.NVAPI2.NVDRS_SETTING_TYPE.NVDRS_WSTRING_TYPE && settingMeta.StringValues != null)
@@ -571,8 +570,8 @@ namespace nspector
             lvSettings.DrawItem += ListViewEx_DrawItem;
             lvSettings.DrawSubItem += ListViewEx_DrawSubItem;
 
-            // DarkMode: Header Background Colors (Custom Colors)
-            Color darkBlueBackground = Color.FromArgb(40, 40, 40); // Adjust this to match group headers
+            // CustomTheme: Header Background Colors
+            Color darkBlueBackground = Color.FromArgb(0, 0, 0); // Header Background Color
             this.BackColor = darkBlueBackground;
             lvSettings.BackColor = darkBlueBackground;
 
@@ -599,28 +598,39 @@ namespace nspector
             // DarkMode: Do nothing here; handled in DrawSubItem to avoid double-draw issues
         }
 
+        // CustomTheme: Background Color
         private void ListViewEx_DrawSubItem(object sender, DrawListViewSubItemEventArgs e)
         {
             bool isSelected = e.Item.Selected;
-            bool isChanged = IsModifiedSetting(e.Item);
+            Color fgColor;
+            Color bgColor = isSelected ? Color.FromArgb(230, 230, 230) : Color.FromArgb(0, 0, 0); // Background Color
 
-            // pick background
-            Color bgColor = isSelected
-                ? Color.FromArgb(0, 120, 215)
-                : Color.FromArgb(31, 31, 31);
+            // Determine if the setting is modified (ImageIndex == 0 means user-modified)
+            bool isModified = e.Item.ImageIndex == 0;
 
-            // pick text
-            Color fgColor = isSelected
-                ? Color.White
-                : isChanged
-                    ? Color.White
-                    : Color.LightGray;
+            // CustomTheme: Text color based on state
+            if (isSelected)
+            {
+                fgColor = Color.FromArgb(0, 0, 0); // Highlighted Text Color
+            }
+            else if (isModified)
+            {
+                fgColor = Color.FromArgb(20, 210, 0); // Modified Text Color
+            }
+            else
+            {
+                fgColor = Color.FromArgb(240, 240, 240); // Stock Text Color
+            }
 
-            // fill background
-            using (var bgBrush = new SolidBrush(bgColor))
-                e.Graphics.FillRectangle(bgBrush, e.Bounds);
+            using (var bg = new SolidBrush(bgColor))
+                e.Graphics.FillRectangle(bg, e.Bounds);
 
-            // draw text
+            // Draw focus rectangle if needed
+            if (e.Item.Focused && isSelected)
+            {
+                ControlPaint.DrawFocusRectangle(e.Graphics, e.Bounds, fgColor, bgColor);
+            }
+
             TextRenderer.DrawText(
                 e.Graphics,
                 e.SubItem.Text,
@@ -629,24 +639,35 @@ namespace nspector
                 fgColor,
                 TextFormatFlags.VerticalCenter | TextFormatFlags.Left
             );
-
-            // **THIS IS THE KEY**: prevent the default paint step
-            e.DrawDefault = false;
         }
 
-        // ------------------------------------------------------------------
-        // Helper: detect if a setting was changed from its default
-        // ------------------------------------------------------------------
+        // DarkMode: Inside the frmDrvSettings class, after your drawing methods:
+
         private bool IsModifiedSetting(ListViewItem item)
         {
-            // The original app sets ForeColor = SystemColors.GrayText on "unchanged" items.
-            // Anything else we treat as "modified."
+            // Unchanged (stock) values were set to GrayText in CreateListViewItem(),
+            // so anything *not* GrayText was modified.
             return item.ForeColor != SystemColors.GrayText;
         }
+
 
         // // // // // // // // 
         // DARK MODE SECTION // 
         // // // // // // // // 
+
+        lblApplications.Text = "";
+
+            InitTaskbarList();
+            SetupDropFilesNative();
+            SetupToolbar();
+            SetupDpiAdjustments();
+
+            tscbShowCustomSettingNamesOnly.Checked = showCsnOnly;
+            Icon = Icon.ExtractAssociatedIcon(Application.ExecutablePath);
+
+            // KeyUp has to be set on the inner control for us to receive Enter key...
+            cbProfiles.Control.KeyUp += cbProfiles_KeyUp;
+        }
 
         public static double ScaleFactor = 1;
 
@@ -796,7 +817,7 @@ namespace nspector
             }
             else
             {
-                _CurrentProfile = cbProfiles.Text;
+                _CurrentProfile = profileName;
                 tsbDeleteProfile.Enabled = true;
                 tsbAddApplication.Enabled = true;
                 tssbRemoveApplication.Enabled = true;
@@ -815,6 +836,25 @@ namespace nspector
                 ChangeCurrentProfile(cbProfiles.Text);
             }
             lvSettings.Focus(); // Unfocus cbProfiles to fix toolstrip hover highlight
+        }
+
+        private void cbProfiles_KeyUp(object sender, KeyEventArgs e)
+        {
+            if(e.KeyCode == Keys.Enter)
+            {
+                // KeyUp event is only fired when combobox item doesn't exist with the entered text
+                // Try searching for text as an exe/application name
+                try
+                {
+                    var profile = _drs.GetProfileNameByExeName(cbProfiles.Text);
+                    if (!string.IsNullOrEmpty(profile))
+                    {
+                        cbProfiles.Text = profile;
+                        ChangeCurrentProfile(profile);
+                    }
+                }
+                catch { }
+            }
         }
 
         private void SetTaskbarProgress(int progress)
@@ -917,7 +957,7 @@ namespace nspector
             {
                 await _scanner.ScanProfileSettingsAsync(true, progressHandler, _scannerCancelationTokenSource.Token);
             }
-
+                        
             RefreshModifiesProfilesDropDown();
             tsbModifiedProfiles.Enabled = true;
 
@@ -1345,7 +1385,6 @@ namespace nspector
                     return;
                 }
 
-
                 var profileName = "";
                 var exeFile = ShortcutResolver.ResolveExecuteable(files[0], out profileName);
                 if (exeFile != "")
@@ -1403,7 +1442,7 @@ namespace nspector
 
         private void SaveSettings()
         {
-            if (_settings == null)
+            if(_settings == null)
                 _settings = UserSettings.LoadSettings();
             if (WindowState == FormWindowState.Normal)
             {
@@ -1472,7 +1511,7 @@ namespace nspector
             else if (!e.Control && (e.KeyCode >= Keys.A && e.KeyCode <= Keys.Z ||
                 e.KeyCode >= Keys.D0 && e.KeyCode <= Keys.D9 ||
                 e.KeyCode >= Keys.NumPad0 && e.KeyCode <= Keys.NumPad9 ||
-                e.KeyCode == Keys.Space || e.KeyCode == Keys.OemPeriod ||
+                e.KeyCode == Keys.Space || e.KeyCode == Keys.OemPeriod || 
                 e.KeyCode == Keys.Back))
             {
                 txtFilter.Focus();
@@ -1497,7 +1536,7 @@ namespace nspector
         {
             RefreshCurrentProfile();
 
-            if (!string.IsNullOrEmpty(txtFilter.Text))
+            if(!string.IsNullOrEmpty(txtFilter.Text))
                 txtFilter.Focus(); // Setting listbox sometimes steals focus away
         }
 
@@ -1543,7 +1582,7 @@ namespace nspector
                         if (meta.SettingType != NVDRS_SETTING_TYPE.NVDRS_DWORD_TYPE) continue;
 
                         var wasNotSet = new int[] { 1, 2, 3 }.Contains(item.ImageIndex);
-
+                        
                         if (wasNotSet)
                         {
                             _drs.SetDwordValueToProfile(_CurrentProfile, settingId, 0x0);
@@ -1589,7 +1628,7 @@ namespace nspector
                 {
                     if (item.ImageIndex != 0) continue;
 
-                    if (!groupTitleAdded)
+                    if(!groupTitleAdded)
                     {
                         sbSettings.AppendFormat("\r\n[{0}]\r\n", group.Header);
                         groupTitleAdded = true;
@@ -1597,7 +1636,7 @@ namespace nspector
                     sbSettings.AppendFormat("{0,-40} {1}\r\n", item.Text, item.SubItems[1].Text);
                 }
             }
-
+            
             Clipboard.SetText(sbSettings.ToString());
         }
 
