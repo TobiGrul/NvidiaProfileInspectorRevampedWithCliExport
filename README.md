@@ -10,6 +10,8 @@ This fork focuses on a few things
 
 4 - Be the first to add support &/or document new features, along with being overall the most user friendly way to adjust NVIDIA settings compared to other versions of NVPI
 
+5 - Support for more themes/styles (e.g. Dark Modes)
+
 ## Why does it exist?
 
 I made it because the original version of NVPI was abandoned and missing so many features, and the AIO version fork of NVPI was in a similar position as well, which was an improvement over base NVPI already. My goal was to take over and maintain the improved AIO fork of NVPI, and provide future support to it so it can be maintained and working. Now NVPI is being updated once again since this was created - however, we've gone in two seperate directions with the tools so things have become very different. As a result, I will still continue to maintain NVPI Revamped
