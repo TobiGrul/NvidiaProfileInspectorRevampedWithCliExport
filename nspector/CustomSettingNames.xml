@@ -4513,7 +4513,7 @@ Sync and Refresh Section
       <HexValue>0x00000000</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>Low (Default)</UserfriendlyName>
+      <UserfriendlyName>Low [Default]</UserfriendlyName>
       <HexValue>0x00000001</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
@@ -5363,15 +5363,15 @@ Graphic Options Section
           <HexValue>0x00000000</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
-          <UserfriendlyName>SSAO (Performance)</UserfriendlyName>
+          <UserfriendlyName>SSAO [Performance]</UserfriendlyName>
           <HexValue>0x00000001</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
-          <UserfriendlyName>HBAO (Quality)</UserfriendlyName>
+          <UserfriendlyName>HBAO [Quality]</UserfriendlyName>
           <HexValue>0x00000002</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
-          <UserfriendlyName>HBAO+ (High Quality)</UserfriendlyName>
+          <UserfriendlyName>HBAO+ [High Quality]</UserfriendlyName>
           <HexValue>0x00000003</HexValue>
         </CustomSettingValue>
       </SettingValues>
@@ -5522,7 +5522,7 @@ Graphic Options Section
           <HexValue>0x00000064</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
-          <UserfriendlyName>Custom 0-100 (Type Numer, Apply Changes)</UserfriendlyName>
+          <UserfriendlyName>0-100 | Custom — Type Number, Apply Changes</UserfriendlyName>
           <HexValue>0x00000065</HexValue>
         </CustomSettingValue>
       </SettingValues>
@@ -5620,7 +5620,7 @@ Graphic Options Section
           <HexValue>0x00000064</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
-          <UserfriendlyName>Custom 0-100 (Type Numer, Apply Changes)</UserfriendlyName>
+          <UserfriendlyName>0-100 | Custom — Type Number, Apply Changes</UserfriendlyName>
           <HexValue>0x00000065</HexValue>
         </CustomSettingValue>
       </SettingValues>
@@ -5690,7 +5690,7 @@ Graphic Options Section
           <HexValue>0x0000002D</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
-          <UserfriendlyName>50 (Default)</UserfriendlyName>
+          <UserfriendlyName>50 [Default]</UserfriendlyName>
           <HexValue>0x00000032</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
@@ -5733,7 +5733,7 @@ Graphic Options Section
           <UserfriendlyName>100</UserfriendlyName>
           <HexValue>0x00000064</HexValue>
         </CustomSettingValue>
-          <UserfriendlyName>Custom 0-100 (Type Numer, Apply Changes)</UserfriendlyName>
+          <UserfriendlyName>0-100 | Custom — Type Number, Apply Changes</UserfriendlyName>
           <HexValue>0x00000065</HexValue>
       </SettingValues>
       <SettingMasks/>
@@ -5785,7 +5785,7 @@ Graphic Options Section
           <HexValue>0x0000002D</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
-          <UserfriendlyName>50 (Default)</UserfriendlyName>
+          <UserfriendlyName>50 [Default]</UserfriendlyName>
           <HexValue>0x00000032</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
@@ -5828,7 +5828,7 @@ Graphic Options Section
           <UserfriendlyName>100</UserfriendlyName>
           <HexValue>0x00000064</HexValue>
         </CustomSettingValue>
-          <UserfriendlyName>Custom 0-100 (Type Numer, Apply Changes)</UserfriendlyName>
+          <UserfriendlyName>0-100 | Custom — Type Number, Apply Changes</UserfriendlyName>
           <HexValue>0x00000065</HexValue>
       </SettingValues>
       <SettingMasks/>
@@ -7081,7 +7081,7 @@ Texture Filtering Section
           <HexValue>0x00400010</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
-          <UserfriendlyName>64x64 (Default)</UserfriendlyName>
+          <UserfriendlyName>64x64 [Default]</UserfriendlyName>
           <HexValue>0x00400040</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
@@ -8425,12 +8425,14 @@ Game Fitlers Section
 
     <!-- TrueHDR, RTX Dynamic Vibrance, Ansel, Freestyle settings, sourced from NexusMods: https://www.nexusmods.com/site/mods/781 -->
 
+    <!-- RTX Dynamic Vibrance Settings -->
+
     <CustomSetting>
-      <UserfriendlyName>RTX Dynamic Vibrance - Saturation (NVOverlay Required)</UserfriendlyName>
+      <UserfriendlyName>RTX Dynamic Vibrance - Saturation</UserfriendlyName>
       <HexSettingID>0x00ABAB13</HexSettingID>
       <Hidden>true</Hidden>
       <Description/>
-      <GroupName>0.2 - Game Filters</GroupName>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>0</UserfriendlyName>
@@ -8517,7 +8519,7 @@ Game Fitlers Section
           <HexValue>0x00000064</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
-          <UserfriendlyName>Custom 0-100 (Type Numer, Apply Changes)</UserfriendlyName>
+          <UserfriendlyName>0-100 | Custom — Type Number, Apply Changes</UserfriendlyName>
           <HexValue>0x00000065</HexValue>
         </CustomSettingValue>
       </SettingValues>
@@ -8525,11 +8527,11 @@ Game Fitlers Section
     </CustomSetting>
 
     <CustomSetting>
-      <UserfriendlyName>RTX Dynamic Vibrance - Value (NVOverlay Required)</UserfriendlyName>
+      <UserfriendlyName>RTX Dynamic Vibrance - Value</UserfriendlyName>
       <HexSettingID>0x00ABAB22</HexSettingID>
       <Hidden>true</Hidden>
       <Description/>
-      <GroupName>0.2 - Game Filters</GroupName>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>0</UserfriendlyName>
@@ -8616,162 +8618,21 @@ Game Fitlers Section
           <HexValue>0x00000064</HexValue>
         </CustomSettingValue>
         <CustomSettingValue>
-          <UserfriendlyName>Custom 0-100 (Type Numer, Apply Changes)</UserfriendlyName>
+          <UserfriendlyName>0-100 | Custom — Type Number, Apply Changes</UserfriendlyName>
           <HexValue>0x00000065</HexValue>
         </CustomSettingValue>
       </SettingValues>
       <SettingMasks/>
     </CustomSetting>
 
-    <CustomSetting>
-      <UserfriendlyName>RTX HDR - Enable (NVOverlay Required)</UserfriendlyName>
-      <HexSettingID>0x00DD48FB</HexSettingID>
-      <GroupName>0.2 - Game Filters</GroupName>
-      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
-      <SettingValues>
-        <CustomSettingValue>
-          <UserfriendlyName>Off</UserfriendlyName>
-          <HexValue>0x00000000</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>On</UserfriendlyName>
-          <HexValue>0x00000001</HexValue>
-        </CustomSettingValue>
-      </SettingValues>
-      <SettingMasks/>
-    </CustomSetting>
-
-    <CustomSetting>
-      <UserfriendlyName>RTX HDR - Quality (NVOverlay Required)</UserfriendlyName>
-      <HexSettingID>0x00432F84</HexSettingID>
-      <GroupName>0.2 - Game Filters</GroupName>
-      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
-      <SettingValues>
-        <CustomSettingValue>
-          <UserfriendlyName>Off</UserfriendlyName>
-          <HexValue>0x00000000</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>Low Quality</UserfriendlyName>
-          <HexValue>0x00000006</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>Medium</UserfriendlyName>
-          <HexValue>0x0000000A</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>Very High Quality</UserfriendlyName>
-          <HexValue>0x00000002</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>Very High (Indicator)</UserfriendlyName>
-          <HexValue>0x00000003</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>Very High (Indicator + Debug)</UserfriendlyName>
-          <HexValue>0x00000023</HexValue>
-        </CustomSettingValue>
-      </SettingValues>
-      <SettingMasks/>
-    </CustomSetting>
-
-    <CustomSetting>
-      <UserfriendlyName>RTX HDR - Allow (NVOverlay Required)</UserfriendlyName>
-      <HexSettingID>0x1077A11A</HexSettingID>
-      <GroupName>0.2 - Game Filters</GroupName>
-      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
-      <SettingValues>
-        <CustomSettingValue>
-          <UserfriendlyName>Disallow</UserfriendlyName>
-          <HexValue>0x00000000</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>Allow</UserfriendlyName>
-          <HexValue>0x00000001</HexValue>
-        </CustomSettingValue>
-      </SettingValues>
-      <SettingMasks/>
-    </CustomSetting>
-
-    <CustomSetting>
-      <UserfriendlyName>Game Filters - Enable</UserfriendlyName>
-      <HexSettingID>0x00980896</HexSettingID>
-      <GroupName>0.2 - Game Filters</GroupName>
-      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
-      <SettingValues>
-        <CustomSettingValue>
-          <UserfriendlyName>Off</UserfriendlyName>
-          <HexValue>0x00000000</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>On</UserfriendlyName>
-          <HexValue>0x00000001</HexValue>
-        </CustomSettingValue>
-      </SettingValues>
-      <SettingMasks/>
-    </CustomSetting>
-
-    <CustomSetting>
-      <UserfriendlyName>Freestyle Filters - Enable</UserfriendlyName>
-      <HexSettingID>0x1075D972</HexSettingID>
-      <GroupName>0.2 - Game Filters</GroupName>
-      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
-      <SettingValues>
-        <CustomSettingValue>
-          <UserfriendlyName>Off</UserfriendlyName>
-          <HexValue>0x00000000</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>On</UserfriendlyName>
-          <HexValue>0x00000001</HexValue>
-        </CustomSettingValue>
-      </SettingValues>
-      <SettingMasks/>
-    </CustomSetting>
-
-    <CustomSetting>
-      <UserfriendlyName>Freestyle Filters - Allow</UserfriendlyName>
-      <HexSettingID>0x1035DB89</HexSettingID>
-      <GroupName>0.2 - Game Filters</GroupName>
-      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
-      <SettingValues>
-        <CustomSettingValue>
-          <UserfriendlyName>Disallow</UserfriendlyName>
-          <HexValue>0x00000000</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>Allow</UserfriendlyName>
-          <HexValue>0x00000001</HexValue>
-        </CustomSettingValue>
-      </SettingValues>
-      <SettingMasks/>
-    </CustomSetting>
-
-    <CustomSetting>
-      <UserfriendlyName>Freestyle Filters - App Allow</UserfriendlyName>
-      <HexSettingID>0x1085DA8A</HexSettingID>
-      <Hidden>true</Hidden>
-      <GroupName>0.2 - Game Filters</GroupName>
-      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
-      <SettingValues>
-        <CustomSettingValue>
-          <UserfriendlyName>Disallow</UserfriendlyName>
-          <HexValue>0x00000000</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>Allow</UserfriendlyName>
-          <HexValue>0x00000001</HexValue>
-        </CustomSettingValue>
-      </SettingValues>
-      <SettingMasks/>
-    </CustomSetting>
+    <!-- NIS v2 Settings -->
 
   <CustomSetting>
       <UserfriendlyName>NIS v2 - Mode (NVApp or NVCP Required)</UserfriendlyName>
       <HexSettingID>0x00ABAC21</HexSettingID>
       <Hidden>true</Hidden>
       <MinRequiredDriverVersion>300.00</MinRequiredDriverVersion>
-      <GroupName>0.2 - Game Filters</GroupName>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>Off</UserfriendlyName>
@@ -8790,7 +8651,7 @@ Game Fitlers Section
       <HexSettingID>0x00ABAB21</HexSettingID>
       <Hidden>true</Hidden>
       <MinRequiredDriverVersion>300</MinRequiredDriverVersion>
-      <GroupName>0.2 - Game Filters</GroupName>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>0</UserfriendlyName>
@@ -8885,7 +8746,7 @@ Game Fitlers Section
       <HexSettingID>0xABAC31</HexSettingID>
       <Hidden>true</Hidden>
       <MinRequiredDriverVersion>300.00</MinRequiredDriverVersion>
-      <GroupName>0.2 - Game Filters</GroupName>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>Off</UserfriendlyName>
@@ -8899,178 +8760,326 @@ Game Fitlers Section
       <SettingMasks/>
     </CustomSetting>
 
+    <!-- Freestyle/Ansel Settings -->
+
+    <CustomSetting>
+      <UserfriendlyName>Game Filters - Enable</UserfriendlyName>
+      <HexSettingID>0x00980896</HexSettingID>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>Off</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>On</UserfriendlyName>
+          <HexValue>0x00000001</HexValue>
+        </CustomSettingValue>
+      </SettingValues>
+      <SettingMasks/>
+    </CustomSetting>
+
+    <CustomSetting>
+      <UserfriendlyName>Freestyle Filters - Enable</UserfriendlyName>
+      <HexSettingID>0x1075D972</HexSettingID>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>Off</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>On</UserfriendlyName>
+          <HexValue>0x00000001</HexValue>
+        </CustomSettingValue>
+      </SettingValues>
+      <SettingMasks/>
+    </CustomSetting>
+
+    <CustomSetting>
+      <UserfriendlyName>Freestyle Filters - Allow</UserfriendlyName>
+      <HexSettingID>0x1035DB89</HexSettingID>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>Disallow</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>Allow</UserfriendlyName>
+          <HexValue>0x00000001</HexValue>
+        </CustomSettingValue>
+      </SettingValues>
+      <SettingMasks/>
+    </CustomSetting>
+
+    <CustomSetting>
+      <UserfriendlyName>Freestyle Filters - App Allow</UserfriendlyName>
+      <HexSettingID>0x1085DA8A</HexSettingID>
+      <Hidden>true</Hidden>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>Disallow</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>Allow</UserfriendlyName>
+          <HexValue>0x00000001</HexValue>
+        </CustomSettingValue>
+      </SettingValues>
+      <SettingMasks/>
+    </CustomSetting>
+
+    <!-- RTX HDR -->
+
+    <CustomSetting>
+      <UserfriendlyName>RTX HDR - Enable</UserfriendlyName>
+      <HexSettingID>0x00DD48FB</HexSettingID>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>Off</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>On</UserfriendlyName>
+          <HexValue>0x00000001</HexValue>
+        </CustomSettingValue>
+      </SettingValues>
+      <SettingMasks/>
+    </CustomSetting>
+
+    <CustomSetting>
+      <UserfriendlyName>RTX HDR - Debanding</UserfriendlyName>
+      <HexSettingID>0x00432F84</HexSettingID>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>N/A</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>No Debanding</UserfriendlyName>
+          <HexValue>0x00000006</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>Low Debanding</UserfriendlyName>
+          <HexValue>0x0000000A</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>High Debanding</UserfriendlyName>
+          <HexValue>0x00000002</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>High Debanding (Indicator)</UserfriendlyName>
+          <HexValue>0x00000003</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>High Debanding (Indicator + Debug)</UserfriendlyName>
+          <HexValue>0x00000023</HexValue>
+	  <Hidden>true</Hidden>
+        </CustomSettingValue>
+      </SettingValues>
+      <SettingMasks/>
+    </CustomSetting>
+
+    <CustomSetting>
+      <UserfriendlyName>RTX HDR - Allow</UserfriendlyName>
+      <HexSettingID>0x1077A11A</HexSettingID>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>Disallow</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>Allow</UserfriendlyName>
+          <HexValue>0x00000001</HexValue>
+        </CustomSettingValue>
+      </SettingValues>
+      <SettingMasks/>
+    </CustomSetting>
+
 <CustomSetting>
-  <UserfriendlyName>RTX HDR - Contrast (NVOverlay Required)</UserfriendlyName>
+  <UserfriendlyName>RTX HDR - Contrast</UserfriendlyName>
   <HexSettingID>0x00DD48FE</HexSettingID>
-  <GroupName>0.2 - Game Filters</GroupName>
+  <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
   <SettingValues>
    <CustomSettingValue>
-    <UserfriendlyName>0 (-100)</UserfriendlyName>
+    <UserfriendlyName>0 | -100</UserfriendlyName>
     <HexValue>0x00000000</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>5 (-95)</UserfriendlyName>
+    <UserfriendlyName>5 | -95</UserfriendlyName>
     <HexValue>0x00000005</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>10 (-90)</UserfriendlyName>
+    <UserfriendlyName>10 | -90</UserfriendlyName>
     <HexValue>0x0000000A</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>15 (-85)</UserfriendlyName>
+    <UserfriendlyName>15 | -85</UserfriendlyName>
     <HexValue>0x0000000F</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>20 (-80)</UserfriendlyName>
+    <UserfriendlyName>20 | -80</UserfriendlyName>
     <HexValue>0x00000014</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>25 (-75)</UserfriendlyName>
+    <UserfriendlyName>25 | -75</UserfriendlyName>
     <HexValue>0x00000019</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>30 (-70)</UserfriendlyName>
+    <UserfriendlyName>30 | -70</UserfriendlyName>
     <HexValue>0x0000001E</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>35 (-65)</UserfriendlyName>
+    <UserfriendlyName>35 | -65</UserfriendlyName>
     <HexValue>0x00000023</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>40 (-60)</UserfriendlyName>
+    <UserfriendlyName>40 | -60</UserfriendlyName>
     <HexValue>0x00000028</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>45 (-55)</UserfriendlyName>
+    <UserfriendlyName>45 | -55</UserfriendlyName>
     <HexValue>0x0000002D</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>50 (-50)</UserfriendlyName>
+    <UserfriendlyName>50 | -50</UserfriendlyName>
     <HexValue>0x00000032</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>55 (-45)</UserfriendlyName>
+    <UserfriendlyName>55 | -45</UserfriendlyName>
     <HexValue>0x00000037</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>60 (-40)</UserfriendlyName>
+    <UserfriendlyName>60 | -40</UserfriendlyName>
     <HexValue>0x0000003C</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>65 (-35)</UserfriendlyName>
+    <UserfriendlyName>65 | -35</UserfriendlyName>
     <HexValue>0x00000041</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>70 (-30)</UserfriendlyName>
+    <UserfriendlyName>70 | -30</UserfriendlyName>
     <HexValue>0x00000046</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>75 (-25)</UserfriendlyName>
+    <UserfriendlyName>75 | -25</UserfriendlyName>
     <HexValue>0x0000004B</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>80 (-20)</UserfriendlyName>
+    <UserfriendlyName>80 | -20</UserfriendlyName>
     <HexValue>0x00000050</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>85 (-15)</UserfriendlyName>
+    <UserfriendlyName>85 | -15</UserfriendlyName>
     <HexValue>0x00000055</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>90 (-10)</UserfriendlyName>
+    <UserfriendlyName>90 | -10</UserfriendlyName>
     <HexValue>0x0000005A</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>95 (-5)</UserfriendlyName>
+    <UserfriendlyName>95 | -5</UserfriendlyName>
     <HexValue>0x0000005F</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>100 (0 - Default)</UserfriendlyName>
+    <UserfriendlyName>100 | 0 — Gamma 2.0 [Default]</UserfriendlyName>
     <HexValue>0x00000064</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>105 (5)</UserfriendlyName>
+    <UserfriendlyName>105 | +5</UserfriendlyName>
     <HexValue>0x00000069</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>110 (10)</UserfriendlyName>
+    <UserfriendlyName>110 | +10</UserfriendlyName>
     <HexValue>0x0000006E</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>115 (15)</UserfriendlyName>
+    <UserfriendlyName>115 | +15</UserfriendlyName>
     <HexValue>0x00000073</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>120 (20)</UserfriendlyName>
+    <UserfriendlyName>120 | +20</UserfriendlyName>
     <HexValue>0x00000078</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>125 (25)</UserfriendlyName>
+    <UserfriendlyName>125 | +25 — Gamma 2.2</UserfriendlyName>
     <HexValue>0x0000007D</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>130 (30)</UserfriendlyName>
+    <UserfriendlyName>130 | +30</UserfriendlyName>
     <HexValue>0x00000082</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>135 (35)</UserfriendlyName>
+    <UserfriendlyName>135 | +35</UserfriendlyName>
     <HexValue>0x00000087</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>140 (40)</UserfriendlyName>
+    <UserfriendlyName>140 | +40</UserfriendlyName>
     <HexValue>0x0000008C</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>145 (45)</UserfriendlyName>
+    <UserfriendlyName>145 | +45</UserfriendlyName>
     <HexValue>0x00000091</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>150 (50)</UserfriendlyName>
+    <UserfriendlyName>150 | +50 — Gamma 2.4</UserfriendlyName>
     <HexValue>0x00000096</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>155 (55)</UserfriendlyName>
+    <UserfriendlyName>155 | +55</UserfriendlyName>
     <HexValue>0x0000009B</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>160 (60)</UserfriendlyName>
+    <UserfriendlyName>160 | +60</UserfriendlyName>
     <HexValue>0x000000A0</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>165 (65)</UserfriendlyName>
+    <UserfriendlyName>165 | +65</UserfriendlyName>
     <HexValue>0x000000A5</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>170 (70)</UserfriendlyName>
+    <UserfriendlyName>170 | +70</UserfriendlyName>
     <HexValue>0x000000AA</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>175 (75)</UserfriendlyName>
+    <UserfriendlyName>175 | +75</UserfriendlyName>
     <HexValue>0x000000AF</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>180 (80)</UserfriendlyName>
+    <UserfriendlyName>180 | +80</UserfriendlyName>
     <HexValue>0x000000B4</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>185 (85)</UserfriendlyName>
+    <UserfriendlyName>185 | +85</UserfriendlyName>
     <HexValue>0x000000B9</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>190 (90)</UserfriendlyName>
+    <UserfriendlyName>190 | +90</UserfriendlyName>
     <HexValue>0x000000BE</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>195 (95)</UserfriendlyName>
+    <UserfriendlyName>195 | +95</UserfriendlyName>
     <HexValue>0x000000C3</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>200 (100)</UserfriendlyName>
+    <UserfriendlyName>200 | +100</UserfriendlyName>
     <HexValue>0x000000C8</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>Custom 0-200 (Type Numer, Apply Changes)</UserfriendlyName>
+    <UserfriendlyName>0-200 | Custom — Type Number, Apply Changes</UserfriendlyName>
     <HexValue>0x000000C9</HexValue>
    </CustomSettingValue>
   </SettingValues>
@@ -9078,9 +9087,9 @@ Game Fitlers Section
  </CustomSetting>
 
     <CustomSetting>
-      <UserfriendlyName>RTX HDR - Middle Grey (NVOverlay Required)</UserfriendlyName>
+      <UserfriendlyName>RTX HDR - Middle Grey</UserfriendlyName>
       <HexSettingID>0x00DD48FD</HexSettingID>
-      <GroupName>0.2 - Game Filters</GroupName>
+      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
       <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
       <SettingValues>
         <CustomSettingValue>
@@ -9120,7 +9129,7 @@ Game Fitlers Section
       <HexValue>0x0000002D</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>50 (Default)</UserfriendlyName>
+      <UserfriendlyName>50 [Default]</UserfriendlyName>
       <HexValue>0x00000032</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
@@ -9164,7 +9173,7 @@ Game Fitlers Section
       <HexValue>0x00000064</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>Custom 10–100 (Type Number, Apply Changes)</UserfriendlyName>
+      <UserfriendlyName>10-100 | Custom — Type Number, Apply Changes</UserfriendlyName>
       <HexValue>0x00000065</HexValue>
         </CustomSettingValue>
       </SettingValues>
@@ -9172,9 +9181,9 @@ Game Fitlers Section
     </CustomSetting>
 
 <CustomSetting>
-  <UserfriendlyName>RTX HDR - Peak Brightness (NVOverlay Required)</UserfriendlyName>
+  <UserfriendlyName>RTX HDR - Peak Brightness</UserfriendlyName>
   <HexSettingID>0x00DD48FC</HexSettingID>
-  <GroupName>0.2 - Game Filters</GroupName>
+  <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
   <SettingValues>
     <CustomSettingValue>
@@ -9314,7 +9323,7 @@ Game Fitlers Section
       <HexValue>0x000007D0</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>Custom 400-2000 (Type Numer, Apply Changes)</UserfriendlyName>
+      <UserfriendlyName>400-2000 | Custom — Type Number, Apply Changes</UserfriendlyName>
       <HexValue>0x00000802</HexValue>
     </CustomSettingValue>
   </SettingValues>
@@ -9322,177 +9331,177 @@ Game Fitlers Section
 </CustomSetting>
 
 <CustomSetting>
-  <UserfriendlyName>RTX HDR - Saturation (NVOverlay Required)</UserfriendlyName>
+  <UserfriendlyName>RTX HDR - Saturation</UserfriendlyName>
   <HexSettingID>0x00DD48FF</HexSettingID>
-  <GroupName>0.2 - Game Filters</GroupName>
+  <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
   <SettingValues>
    <CustomSettingValue>
-    <UserfriendlyName>0 (-100)</UserfriendlyName>
+    <UserfriendlyName>0 | -100</UserfriendlyName>
     <HexValue>0x00000000</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>5 (-95)</UserfriendlyName>
+    <UserfriendlyName>5 | -95</UserfriendlyName>
     <HexValue>0x00000005</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>10 (-90)</UserfriendlyName>
+    <UserfriendlyName>10 | -90</UserfriendlyName>
     <HexValue>0x0000000A</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>15 (-85)</UserfriendlyName>
+    <UserfriendlyName>15 | -85</UserfriendlyName>
     <HexValue>0x0000000F</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>20 (-80)</UserfriendlyName>
+    <UserfriendlyName>20 | -80</UserfriendlyName>
     <HexValue>0x00000014</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>25 (-75)</UserfriendlyName>
+    <UserfriendlyName>25 | -75</UserfriendlyName>
     <HexValue>0x00000019</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>30 (-70)</UserfriendlyName>
+    <UserfriendlyName>30 | -70</UserfriendlyName>
     <HexValue>0x0000001E</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>35 (-65)</UserfriendlyName>
+    <UserfriendlyName>35 | -65</UserfriendlyName>
     <HexValue>0x00000023</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>40 (-60)</UserfriendlyName>
+    <UserfriendlyName>40 | -60</UserfriendlyName>
     <HexValue>0x00000028</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>45 (-55)</UserfriendlyName>
+    <UserfriendlyName>45 | -55</UserfriendlyName>
     <HexValue>0x0000002D</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>50 (-50)</UserfriendlyName>
+    <UserfriendlyName>50 | -50</UserfriendlyName>
     <HexValue>0x00000032</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>55 (-45)</UserfriendlyName>
+    <UserfriendlyName>55 | -45</UserfriendlyName>
     <HexValue>0x00000037</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>60 (-40)</UserfriendlyName>
+    <UserfriendlyName>60 | -40</UserfriendlyName>
     <HexValue>0x0000003C</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>65 (-35)</UserfriendlyName>
+    <UserfriendlyName>65 | -35</UserfriendlyName>
     <HexValue>0x00000041</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>70 (-30)</UserfriendlyName>
+    <UserfriendlyName>70 | -30</UserfriendlyName>
     <HexValue>0x00000046</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>75 (-25 - Neutral/No Color Boost)</UserfriendlyName>
+    <UserfriendlyName>75 | -25 — Neutral Saturation</UserfriendlyName>
     <HexValue>0x0000004B</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>80 (-20)</UserfriendlyName>
+    <UserfriendlyName>80 | -20</UserfriendlyName>
     <HexValue>0x00000050</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>85 (-15)</UserfriendlyName>
+    <UserfriendlyName>85 | -15</UserfriendlyName>
     <HexValue>0x00000055</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>90 (-10)</UserfriendlyName>
+    <UserfriendlyName>90 | -10</UserfriendlyName>
     <HexValue>0x0000005A</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>95 (-5)</UserfriendlyName>
+    <UserfriendlyName>95 | -5</UserfriendlyName>
     <HexValue>0x0000005F</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>100 (0 - Default)</UserfriendlyName>
+    <UserfriendlyName>100 | 0 [Default]</UserfriendlyName>
     <HexValue>0x00000064</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>105 (5)</UserfriendlyName>
+    <UserfriendlyName>105 | +5</UserfriendlyName>
     <HexValue>0x00000069</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>110 (10)</UserfriendlyName>
+    <UserfriendlyName>110 | +10</UserfriendlyName>
     <HexValue>0x0000006E</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>115 (15)</UserfriendlyName>
+    <UserfriendlyName>115 | +15</UserfriendlyName>
     <HexValue>0x00000073</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>120 (20)</UserfriendlyName>
+    <UserfriendlyName>120 | +20</UserfriendlyName>
     <HexValue>0x00000078</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>125 (25)</UserfriendlyName>
+    <UserfriendlyName>125 | +25</UserfriendlyName>
     <HexValue>0x0000007D</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>130 (30)</UserfriendlyName>
+    <UserfriendlyName>130 | +30</UserfriendlyName>
     <HexValue>0x00000082</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>135 (35)</UserfriendlyName>
+    <UserfriendlyName>135 | +35</UserfriendlyName>
     <HexValue>0x00000087</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>140 (40)</UserfriendlyName>
+    <UserfriendlyName>140 | +40</UserfriendlyName>
     <HexValue>0x0000008C</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>145 (45)</UserfriendlyName>
+    <UserfriendlyName>145 | +45</UserfriendlyName>
     <HexValue>0x00000091</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>150 (50)</UserfriendlyName>
+    <UserfriendlyName>150 | +50</UserfriendlyName>
     <HexValue>0x00000096</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>155 (55)</UserfriendlyName>
+    <UserfriendlyName>155 | +55</UserfriendlyName>
     <HexValue>0x0000009B</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>160 (60)</UserfriendlyName>
+    <UserfriendlyName>160 | +60</UserfriendlyName>
     <HexValue>0x000000A0</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>165 (65)</UserfriendlyName>
+    <UserfriendlyName>165 | +65</UserfriendlyName>
     <HexValue>0x000000A5</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>170 (70)</UserfriendlyName>
+    <UserfriendlyName>170 | +70</UserfriendlyName>
     <HexValue>0x000000AA</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>175 (75)</UserfriendlyName>
+    <UserfriendlyName>175 | +75</UserfriendlyName>
     <HexValue>0x000000AF</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>180 (80)</UserfriendlyName>
+    <UserfriendlyName>180 | +80</UserfriendlyName>
     <HexValue>0x000000B4</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>185 (85)</UserfriendlyName>
+    <UserfriendlyName>185 | +85</UserfriendlyName>
     <HexValue>0x000000B9</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>190 (90)</UserfriendlyName>
+    <UserfriendlyName>190 | +90</UserfriendlyName>
     <HexValue>0x000000BE</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>195 (95)</UserfriendlyName>
+    <UserfriendlyName>195 | +95</UserfriendlyName>
     <HexValue>0x000000C3</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>200 (100)</UserfriendlyName>
+    <UserfriendlyName>200 | +100</UserfriendlyName>
     <HexValue>0x000000C8</HexValue>
    </CustomSettingValue>
    <CustomSettingValue>
-    <UserfriendlyName>Custom 0-200 (Type Numer, Apply Changes)</UserfriendlyName>
+    <UserfriendlyName>0-200 | Custom — Type Number, Apply Changes</UserfriendlyName>
     <HexValue>0x000000C9</HexValue>
    </CustomSettingValue>
   </SettingValues>
@@ -9568,51 +9577,51 @@ DLSS Overrides Section
 			<HexValue>0x00000000</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset A - CNN (v3.1+)</UserfriendlyName>
+			<UserfriendlyName>Preset A — CNN [v3.1+]</UserfriendlyName>
 			<HexValue>0x00000001</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset B - CNN (v3.1+)</UserfriendlyName>
+			<UserfriendlyName>Preset B — CNN [v3.1+]</UserfriendlyName>
 			<HexValue>0x00000002</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset C - CNN (v3.1+)</UserfriendlyName>
+			<UserfriendlyName>Preset C — CNN [v3.1+]</UserfriendlyName>
 			<HexValue>0x00000003</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset D - CNN (v3.1+)</UserfriendlyName>
+			<UserfriendlyName>Preset D — CNN [v3.1+]</UserfriendlyName>
 			<HexValue>0x00000004</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset E - CNN (v3.7+)</UserfriendlyName>
+			<UserfriendlyName>Preset E — CNN [v3.7+]</UserfriendlyName>
 			<HexValue>0x00000005</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset F - CNN (v3.1+)</UserfriendlyName>
+			<UserfriendlyName>Preset F — CNN [v3.1+]</UserfriendlyName>
 			<HexValue>0x00000006</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset J - TF (v310+)</UserfriendlyName>
+			<UserfriendlyName>Preset J — TF [v310+]</UserfriendlyName>
 			<HexValue>0x0000000A</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset K - TF (v310.2.1+)</UserfriendlyName>
+			<UserfriendlyName>Preset K — TF [v310.2.1+]</UserfriendlyName>
 			<HexValue>0x0000000B</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Latest Preset (v310+)</UserfriendlyName>
+			<UserfriendlyName>Latest Preset [v310+]</UserfriendlyName>
 			<HexValue>0x00FFFFFF</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>N/A - Preset G</UserfriendlyName>
+			<UserfriendlyName>N/A — Preset G</UserfriendlyName>
 			<HexValue>0x00000007</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>N/A - Preset H</UserfriendlyName>
+			<UserfriendlyName>N/A — Preset H</UserfriendlyName>
 			<HexValue>0x00000008</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>N/A - Preset I</UserfriendlyName>
+			<UserfriendlyName>N/A — Preset I</UserfriendlyName>
 			<HexValue>0x00000009</HexValue>
 		  </CustomSettingValue>
 		</SettingValues>
@@ -9630,35 +9639,35 @@ DLSS Overrides Section
 			<HexValue>0x00000000</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset A - CNN (v3.5 - 310.2.1)</UserfriendlyName>
+			<UserfriendlyName>Preset A — CNN [v3.5 - 310.2.1]</UserfriendlyName>
 			<HexValue>0x00000001</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset B - CNN (v3.5 - 310.2.1)</UserfriendlyName>
+			<UserfriendlyName>Preset B — CNN [v3.5 - 310.2.1]</UserfriendlyName>
 			<HexValue>0x00000002</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset C - CNN (v3.5 - 310.2.1)</UserfriendlyName>
+			<UserfriendlyName>Preset C — CNN [v3.5 - 310.2.1]</UserfriendlyName>
 			<HexValue>0x00000003</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset D - TF (v3.5+)</UserfriendlyName>
+			<UserfriendlyName>Preset D — TF [v3.5+]</UserfriendlyName>
 			<HexValue>0x00000004</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset E - CNN (v310.2.1+)</UserfriendlyName>
+			<UserfriendlyName>Preset E — CNN [v310.2.1+]</UserfriendlyName>
 			<HexValue>0x00000005</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset J - TF (v310 - 310.2.1)</UserfriendlyName>
+			<UserfriendlyName>Preset J — TF [v310 - 310.2.1]</UserfriendlyName>
 			<HexValue>0x0000000A</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Latest Preset (v310+)</UserfriendlyName>
+			<UserfriendlyName>Latest Preset [v310+]</UserfriendlyName>
 			<HexValue>0x00FFFFFF</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>N/A - Preset F</UserfriendlyName>
+			<UserfriendlyName>N/A — Preset F</UserfriendlyName>
 			<HexValue>0x00000006</HexValue>
 		  </CustomSettingValue>
 		</SettingValues>
@@ -9704,7 +9713,7 @@ DLSS Overrides Section
 </CustomSetting>
 
 <CustomSetting>
-  <UserfriendlyName>Render Scale (Custom) - SR</UserfriendlyName>
+  <UserfriendlyName>Render Scale [Custom] - SR</UserfriendlyName>
   <HexSettingID>0x10E41DF5</HexSettingID>
   <GroupName>0.1 - DLSS and NVSM Overrides</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
@@ -9714,67 +9723,67 @@ DLSS Overrides Section
       <HexValue>0x00000000</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>100% - DLAA</UserfriendlyName>
+      <UserfriendlyName>100% — DLAA</UserfriendlyName>
       <HexValue>0x00000064</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>99% - DLAA (If 100% Breaks)</UserfriendlyName>
+      <UserfriendlyName>99% — DLAA [If 100% Breaks]</UserfriendlyName>
       <HexValue>0x00000063</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>88% - DLAA Lite (Transformer Cost Removed)</UserfriendlyName>
+      <UserfriendlyName>88% — DLAA Lite [Perf Cost Removed]</UserfriendlyName>
       <HexValue>0x00000058</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>83% - Ultra Quality+</UserfriendlyName>
+      <UserfriendlyName>83% — Ultra Quality+</UserfriendlyName>
       <HexValue>0x00000053</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>77% - Ultra Quality</UserfriendlyName>
+      <UserfriendlyName>77% — Ultra Quality</UserfriendlyName>
       <HexValue>0x0000004D</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>72% - High Quality</UserfriendlyName>
+      <UserfriendlyName>72% — High Quality</UserfriendlyName>
       <HexValue>0x00000048</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>67% - Quality</UserfriendlyName>
+      <UserfriendlyName>67% — Quality</UserfriendlyName>
       <HexValue>0x00000042</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>62% - Balanced Quality</UserfriendlyName>
+      <UserfriendlyName>62% — Balanced Quality</UserfriendlyName>
       <HexValue>0x0000003E</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>58% - Balanced</UserfriendlyName>
+      <UserfriendlyName>58% — Balanced</UserfriendlyName>
       <HexValue>0x0000003A</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>54% - Balanced Performance</UserfriendlyName>
+      <UserfriendlyName>54% — Balanced Performance</UserfriendlyName>
       <HexValue>0x00000036</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>50% - Performance</UserfriendlyName>
+      <UserfriendlyName>50% — Performance</UserfriendlyName>
       <HexValue>0x00000032</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>45% - Extra Performance</UserfriendlyName>
+      <UserfriendlyName>45% — Extra Performance</UserfriendlyName>
       <HexValue>0x0000002D</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>41% - High Performance</UserfriendlyName>
+      <UserfriendlyName>41% — High Performance</UserfriendlyName>
       <HexValue>0x00000029</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>37% - Extreme Performance</UserfriendlyName>
+      <UserfriendlyName>37% — Extreme Performance</UserfriendlyName>
       <HexValue>0x00000025</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>33% - Ultra Performance</UserfriendlyName>
+      <UserfriendlyName>33% — Ultra Performance</UserfriendlyName>
       <HexValue>0x00000021</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>Custom 33-100 (Type Numer, Apply Changes)</UserfriendlyName>
+      <UserfriendlyName>33-100 | Custom — Type Number, Apply Changes</UserfriendlyName>
       <HexValue>0x00000065</HexValue>
     </CustomSettingValue>
   </SettingValues>
@@ -9820,7 +9829,7 @@ DLSS Overrides Section
 </CustomSetting>
 
 <CustomSetting>
-  <UserfriendlyName>Render Scale (Custom) - RR</UserfriendlyName>
+  <UserfriendlyName>Render Scale [Custom] - RR</UserfriendlyName>
   <HexSettingID>0x10C7D4A2</HexSettingID>
   <GroupName>0.1 - DLSS and NVSM Overrides</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
@@ -9830,67 +9839,67 @@ DLSS Overrides Section
       <HexValue>0x00000000</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>100% - DLAA</UserfriendlyName>
+      <UserfriendlyName>100% — DLAA</UserfriendlyName>
       <HexValue>0x00000064</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>99% - DLAA (If 100% Breaks)</UserfriendlyName>
+      <UserfriendlyName>99% — DLAA [If 100% Breaks]</UserfriendlyName>
       <HexValue>0x00000063</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>88% - DLAA Lite (Transformer Cost Removed)</UserfriendlyName>
+      <UserfriendlyName>88% — DLAA Lite [Perf Cost Removed]</UserfriendlyName>
       <HexValue>0x00000058</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>83% - Ultra Quality+</UserfriendlyName>
+      <UserfriendlyName>83% — Ultra Quality+</UserfriendlyName>
       <HexValue>0x00000053</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>77% - Ultra Quality</UserfriendlyName>
+      <UserfriendlyName>77% — Ultra Quality</UserfriendlyName>
       <HexValue>0x0000004D</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>72% - High Quality</UserfriendlyName>
+      <UserfriendlyName>72% — High Quality</UserfriendlyName>
       <HexValue>0x00000048</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>67% - Quality</UserfriendlyName>
+      <UserfriendlyName>67% — Quality</UserfriendlyName>
       <HexValue>0x00000042</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>62% - Balanced Quality</UserfriendlyName>
+      <UserfriendlyName>62% — Balanced Quality</UserfriendlyName>
       <HexValue>0x0000003E</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>58% - Balanced</UserfriendlyName>
+      <UserfriendlyName>58% — Balanced</UserfriendlyName>
       <HexValue>0x0000003A</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>54% - Balanced Performance</UserfriendlyName>
+      <UserfriendlyName>54% — Balanced Performance</UserfriendlyName>
       <HexValue>0x00000036</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>50% - Performance</UserfriendlyName>
+      <UserfriendlyName>50% — Performance</UserfriendlyName>
       <HexValue>0x00000032</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>45% - Extra Performance</UserfriendlyName>
+      <UserfriendlyName>45% — Extra Performance</UserfriendlyName>
       <HexValue>0x0000002D</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>41% - High Performance</UserfriendlyName>
+      <UserfriendlyName>41% — High Performance</UserfriendlyName>
       <HexValue>0x00000029</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>37% - Extreme Performance</UserfriendlyName>
+      <UserfriendlyName>37% — Extreme Performance</UserfriendlyName>
       <HexValue>0x00000025</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>33% - Ultra Performance</UserfriendlyName>
+      <UserfriendlyName>33% — Ultra Performance</UserfriendlyName>
       <HexValue>0x00000021</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>Custom 33-100 (Type Numer, Apply Changes)</UserfriendlyName>
+      <UserfriendlyName>33-100 | Custom — Type Number, Apply Changes</UserfriendlyName>
       <HexValue>0x00000065</HexValue>
     </CustomSettingValue>
   </SettingValues>
@@ -9909,15 +9918,15 @@ DLSS Overrides Section
       <HexValue>0x00000000</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>2x (40 Series+)</UserfriendlyName>
+      <UserfriendlyName>2x [40 Series+]</UserfriendlyName>
       <HexValue>0x00000001</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>3x (50 Series+)</UserfriendlyName>
+      <UserfriendlyName>3x [50 Series+]</UserfriendlyName>
       <HexValue>0x00000002</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>4x (50 Series+)</UserfriendlyName>
+      <UserfriendlyName>4x [50 Series+]</UserfriendlyName>
       <HexValue>0x00000003</HexValue>
     </CustomSettingValue>
   </SettingValues>
@@ -9939,7 +9948,7 @@ NVSM Overrides Section
       <HexValue>0x00000000</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>On (40 Series+)</UserfriendlyName>
+      <UserfriendlyName>On [40 Series+]</UserfriendlyName>
       <HexValue>0x00000001</HexValue>
     </CustomSettingValue>
   </SettingValues>
@@ -9957,31 +9966,31 @@ NVSM Overrides Section
       <HexValue>0x00000000</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>Allow - DX11</UserfriendlyName>
+      <UserfriendlyName>Allow - DX12</UserfriendlyName>
       <HexValue>0x00000001</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>Allow - Vulkan</UserfriendlyName>
+      <UserfriendlyName>Allow - DX11</UserfriendlyName>
       <HexValue>0x00000002</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>Allow - DX11, Vulkan</UserfriendlyName>
+      <UserfriendlyName>Allow - DX11/12</UserfriendlyName>
       <HexValue>0x00000003</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>Allow - DX12</UserfriendlyName>
+      <UserfriendlyName>Allow - VK</UserfriendlyName>
       <HexValue>0x00000004</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>Allow - DX11, DX12</UserfriendlyName>
+      <UserfriendlyName>Allow - DX12, VK</UserfriendlyName>
       <HexValue>0x00000005</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>Allow - DX12, Vulkan</UserfriendlyName>
+      <UserfriendlyName>Allow - DX11, VK</UserfriendlyName>
       <HexValue>0x00000006</HexValue>
     </CustomSettingValue>
     <CustomSettingValue>
-      <UserfriendlyName>Allow - All (DX11, DX12, Vulkan)</UserfriendlyName>
+      <UserfriendlyName>Allow - All [DX11/12, VK]</UserfriendlyName>
       <HexValue>0x00000007</HexValue>
     </CustomSettingValue>
   </SettingValues>
