@@ -4918,42 +4918,6 @@ Anti-Aliasing Section
 </CustomSetting>
 
     <CustomSetting>
-      <UserfriendlyName>FXAA - Allow</UserfriendlyName>
-      <HexSettingID>0x1034CB89</HexSettingID>
-      <MinRequiredDriverVersion>300.00</MinRequiredDriverVersion>
-      <GroupName>3 - Antialiasing</GroupName>
-      <SettingValues>
-        <CustomSettingValue>
-          <UserfriendlyName>Disallow</UserfriendlyName>
-          <HexValue>0x00000000</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>Allow</UserfriendlyName>
-          <HexValue>0x00000001</HexValue>
-        </CustomSettingValue>
-      </SettingValues>
-      <SettingMasks/>
-    </CustomSetting>
-
-    <CustomSetting>
-      <UserfriendlyName>FXAA - Enable</UserfriendlyName>
-      <HexSettingID>0x1074C972</HexSettingID>
-      <MinRequiredDriverVersion>300.00</MinRequiredDriverVersion>
-      <GroupName>3 - Antialiasing</GroupName>
-      <SettingValues>
-        <CustomSettingValue>
-          <UserfriendlyName>Off</UserfriendlyName>
-          <HexValue>0x00000000</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>On</UserfriendlyName>
-          <HexValue>0x00000001</HexValue>
-        </CustomSettingValue>
-      </SettingValues>
-      <SettingMasks/>
-    </CustomSetting>
-
-    <CustomSetting>
       <UserfriendlyName>AntiAliasing - Gamma Correction</UserfriendlyName>
       <HexSettingID>0x107D639D</HexSettingID>
       <OverrideDefault>0x00000002</OverrideDefault>
@@ -5333,13 +5297,13 @@ Anti-Aliasing Section
 </CustomSetting>
 
 ===========================================================
-Graphic Options Section
+Graphic Filters Section
 ===========================================================
 
     <CustomSetting>
       <UserfriendlyName>Resampling Method</UserfriendlyName>
       <HexSettingID>0x10444444</HexSettingID>
-      <GroupName>0.1.1 - Graphic Options</GroupName>
+      <GroupName>0.1.1 - Graphic Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>Bilinear</UserfriendlyName>
@@ -5354,52 +5318,10 @@ Graphic Options Section
     </CustomSetting>
 
     <CustomSetting>
-      <UserfriendlyName>Ambient Occlusion - Type</UserfriendlyName>
-      <HexSettingID>0x00667329</HexSettingID>
-      <GroupName>0.1.1 - Graphic Options</GroupName>
-      <SettingValues>
-        <CustomSettingValue>
-          <UserfriendlyName>Off</UserfriendlyName>
-          <HexValue>0x00000000</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>SSAO [Performance]</UserfriendlyName>
-          <HexValue>0x00000001</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>HBAO [Quality]</UserfriendlyName>
-          <HexValue>0x00000002</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>HBAO+ [High Quality]</UserfriendlyName>
-          <HexValue>0x00000003</HexValue>
-        </CustomSettingValue>
-      </SettingValues>
-      <SettingMasks/>
-    </CustomSetting>
-
-    <CustomSetting>
-      <UserfriendlyName>Ambient Occlusion - Enable</UserfriendlyName>
-      <HexSettingID>0x00664339</HexSettingID>
-      <GroupName>0.1.1 - Graphic Options</GroupName>
-      <SettingValues>
-        <CustomSettingValue>
-          <UserfriendlyName>Disabled</UserfriendlyName>
-          <HexValue>0x00000000</HexValue>
-        </CustomSettingValue>
-        <CustomSettingValue>
-          <UserfriendlyName>Enabled</UserfriendlyName>
-          <HexValue>0x00000001</HexValue>
-        </CustomSettingValue>
-      </SettingValues>
-      <SettingMasks/>
-    </CustomSetting>
-
-    <CustomSetting>
       <UserfriendlyName>NIS - Enable</UserfriendlyName>
       <HexSettingID>0x598949</HexSettingID>
       <MinRequiredDriverVersion>441.87</MinRequiredDriverVersion>
-      <GroupName>0.1.1 - Graphic Options</GroupName>
+      <GroupName>0.1.1 - Graphic Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>Off</UserfriendlyName>
@@ -5417,7 +5339,7 @@ Graphic Options Section
       <UserfriendlyName>NIS - Allow</UserfriendlyName>
       <HexSettingID>0x00598928</HexSettingID>
       <MinRequiredDriverVersion>441.87</MinRequiredDriverVersion>
-      <GroupName>0.1.1 - Graphic Options</GroupName>
+      <GroupName>0.1.1 - Graphic Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>Disalllowed</UserfriendlyName>
@@ -5435,7 +5357,7 @@ Graphic Options Section
       <UserfriendlyName>NIS - Value</UserfriendlyName>
       <HexSettingID>0x002ED8CD</HexSettingID>
       <MinRequiredDriverVersion>441.87</MinRequiredDriverVersion>
-      <GroupName>0.1.1 - Graphic Options</GroupName>
+      <GroupName>0.1.1 - Graphic Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>0</UserfriendlyName>
@@ -5533,7 +5455,7 @@ Graphic Options Section
       <UserfriendlyName>NIS - Denoise</UserfriendlyName>
       <HexSettingID>0x002ED8CE</HexSettingID>
       <MinRequiredDriverVersion>441.87</MinRequiredDriverVersion>
-      <GroupName>0.1.1 - Graphic Options</GroupName>
+      <GroupName>0.1.1 - Graphic Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>0</UserfriendlyName>
@@ -5630,7 +5552,7 @@ Graphic Options Section
 	<CustomSetting>
       <UserfriendlyName>Dynamic Vibrance - Enable</UserfriendlyName>
       <HexSettingID>0x00980880</HexSettingID>
-      <GroupName>0.1.1 - Graphic Options</GroupName>
+      <GroupName>0.1.1 - Graphic Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>Off</UserfriendlyName>
@@ -5647,7 +5569,7 @@ Graphic Options Section
     <CustomSetting>
       <UserfriendlyName>Dynamic Vibrance - Intensity</UserfriendlyName>
       <HexSettingID>0x00ABAB33</HexSettingID>
-      <GroupName>0.1.1 - Graphic Options</GroupName>
+      <GroupName>0.1.1 - Graphic Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>0</UserfriendlyName>
@@ -5742,7 +5664,7 @@ Graphic Options Section
     <CustomSetting>
       <UserfriendlyName>Dynamic Vibrance - Saturation</UserfriendlyName>
       <HexSettingID>0x00ABAB36</HexSettingID>
-      <GroupName>0.1.1 - Graphic Options</GroupName>
+      <GroupName>0.1.1 - Graphic Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>0</UserfriendlyName>
@@ -5835,13 +5757,95 @@ Graphic Options Section
     </CustomSetting>
 
 ===========================================================
+Graphic Options Section
+===========================================================
+
+    <CustomSetting>
+      <UserfriendlyName>Ambient Occlusion - Enable</UserfriendlyName>
+      <HexSettingID>0x00664339</HexSettingID>
+      <GroupName>0.1.2 - Graphic Options</GroupName>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>Disabled</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>Enabled</UserfriendlyName>
+          <HexValue>0x00000001</HexValue>
+        </CustomSettingValue>
+      </SettingValues>
+      <SettingMasks/>
+    </CustomSetting>
+
+    <CustomSetting>
+      <UserfriendlyName>Ambient Occlusion - Type</UserfriendlyName>
+      <HexSettingID>0x00667329</HexSettingID>
+      <GroupName>0.1.2 - Graphic Options</GroupName>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>Off</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>SSAO [Performance]</UserfriendlyName>
+          <HexValue>0x00000001</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>HBAO [Quality]</UserfriendlyName>
+          <HexValue>0x00000002</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>HBAO+ [High Quality]</UserfriendlyName>
+          <HexValue>0x00000003</HexValue>
+        </CustomSettingValue>
+      </SettingValues>
+      <SettingMasks/>
+    </CustomSetting>
+
+    <CustomSetting>
+      <UserfriendlyName>FXAA - Allow</UserfriendlyName>
+      <HexSettingID>0x1034CB89</HexSettingID>
+      <MinRequiredDriverVersion>300.00</MinRequiredDriverVersion>
+      <GroupName>0.1.2 - Graphic Options</GroupName>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>Disallow</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>Allow</UserfriendlyName>
+          <HexValue>0x00000001</HexValue>
+        </CustomSettingValue>
+      </SettingValues>
+      <SettingMasks/>
+    </CustomSetting>
+
+    <CustomSetting>
+      <UserfriendlyName>FXAA - Enable</UserfriendlyName>
+      <HexSettingID>0x1074C972</HexSettingID>
+      <MinRequiredDriverVersion>300.00</MinRequiredDriverVersion>
+      <GroupName>0.1.2 - Graphic Options</GroupName>
+      <SettingValues>
+        <CustomSettingValue>
+          <UserfriendlyName>Off</UserfriendlyName>
+          <HexValue>0x00000000</HexValue>
+        </CustomSettingValue>
+        <CustomSettingValue>
+          <UserfriendlyName>On</UserfriendlyName>
+          <HexValue>0x00000001</HexValue>
+        </CustomSettingValue>
+      </SettingValues>
+      <SettingMasks/>
+    </CustomSetting>
+
+===========================================================
 Performance Options Section
 ===========================================================
 
     <CustomSetting>
       <UserfriendlyName>ReBAR - Feature</UserfriendlyName>
       <HexSettingID>0X000F00BA</HexSettingID>
-      <GroupName>0.1.2 - Performance Options</GroupName>
+      <GroupName>0.1.3 - Performance Options</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>Disabled</UserfriendlyName>
@@ -5857,7 +5861,7 @@ Performance Options Section
     <CustomSetting>
       <UserfriendlyName>Power Management - Mode</UserfriendlyName>
       <HexSettingID>0x1057EB71</HexSettingID>
-      <GroupName>0.1.2 - Performance Options</GroupName>
+      <GroupName>0.1.3 - Performance Options</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>Adaptive</UserfriendlyName>
@@ -5878,7 +5882,7 @@ Performance Options Section
     <CustomSetting>
       <UserfriendlyName>RayTracing - Supported (DXR)</UserfriendlyName>
       <HexSettingID>0X00DE429A</HexSettingID>
-      <GroupName>0.1.2 - Performance Options</GroupName>
+      <GroupName>0.1.3 - Performance Options</GroupName>
       <OverrideDefault>0x00000001</OverrideDefault>
       <SettingValues>
         <CustomSettingValue>
@@ -5895,7 +5899,7 @@ Performance Options Section
     <CustomSetting>
       <UserfriendlyName>RayTracing - Supported (Vulkan RT)</UserfriendlyName>
       <HexSettingID>0x20BC1A2B</HexSettingID>
-      <GroupName>0.1.2 - Performance Options</GroupName>
+      <GroupName>0.1.3 - Performance Options</GroupName>
       <OverrideDefault>0x00000001</OverrideDefault>
       <SettingValues>
         <CustomSettingValue>
@@ -5912,7 +5916,7 @@ Performance Options Section
     <CustomSetting>
       <UserfriendlyName>Latency - Max Pre-Rendered Frames</UserfriendlyName>
       <HexSettingID>0x007BA09E</HexSettingID>
-      <GroupName>0.1.2 - Performance Options</GroupName>
+      <GroupName>0.1.3 - Performance Options</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>Use the 3D application setting</UserfriendlyName>
@@ -5957,7 +5961,7 @@ Performance Options Section
     <CustomSetting>
       <UserfriendlyName>Latency - ULL CPL State</UserfriendlyName>
       <HexSettingID>0x0005F543</HexSettingID>
-      <GroupName>0.1.2 - Performance Options</GroupName>
+      <GroupName>0.1.3 - Performance Options</GroupName>
       <MinRequiredDriverVersion>430.00</MinRequiredDriverVersion>
       <Description>This setting just keeps track of ULL setting for the nvidia control panel. No need to change it.</Description>
       <SettingValues>
@@ -5979,7 +5983,7 @@ Performance Options Section
     <CustomSetting>
       <UserfriendlyName>Latency - ULL Enable</UserfriendlyName>
       <HexSettingID>0x10835000</HexSettingID>
-      <GroupName>0.1.2 - Performance Options</GroupName>
+      <GroupName>0.1.3 - Performance Options</GroupName>
       <MinRequiredDriverVersion>430.00</MinRequiredDriverVersion>
       <SettingValues>
         <CustomSettingValue>
@@ -8432,7 +8436,7 @@ Game Fitlers Section
       <HexSettingID>0x00ABAB13</HexSettingID>
       <Hidden>true</Hidden>
       <Description/>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>0</UserfriendlyName>
@@ -8531,7 +8535,7 @@ Game Fitlers Section
       <HexSettingID>0x00ABAB22</HexSettingID>
       <Hidden>true</Hidden>
       <Description/>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>0</UserfriendlyName>
@@ -8632,7 +8636,7 @@ Game Fitlers Section
       <HexSettingID>0x00ABAC21</HexSettingID>
       <Hidden>true</Hidden>
       <MinRequiredDriverVersion>300.00</MinRequiredDriverVersion>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>Off</UserfriendlyName>
@@ -8651,7 +8655,7 @@ Game Fitlers Section
       <HexSettingID>0x00ABAB21</HexSettingID>
       <Hidden>true</Hidden>
       <MinRequiredDriverVersion>300</MinRequiredDriverVersion>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>0</UserfriendlyName>
@@ -8746,7 +8750,7 @@ Game Fitlers Section
       <HexSettingID>0xABAC31</HexSettingID>
       <Hidden>true</Hidden>
       <MinRequiredDriverVersion>300.00</MinRequiredDriverVersion>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <SettingValues>
         <CustomSettingValue>
           <UserfriendlyName>Off</UserfriendlyName>
@@ -8765,7 +8769,7 @@ Game Fitlers Section
     <CustomSetting>
       <UserfriendlyName>Game Filters - Enable</UserfriendlyName>
       <HexSettingID>0x00980896</HexSettingID>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
       <SettingValues>
         <CustomSettingValue>
@@ -8783,7 +8787,7 @@ Game Fitlers Section
     <CustomSetting>
       <UserfriendlyName>Freestyle Filters - Enable</UserfriendlyName>
       <HexSettingID>0x1075D972</HexSettingID>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
       <SettingValues>
         <CustomSettingValue>
@@ -8801,7 +8805,7 @@ Game Fitlers Section
     <CustomSetting>
       <UserfriendlyName>Freestyle Filters - Allow</UserfriendlyName>
       <HexSettingID>0x1035DB89</HexSettingID>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
       <SettingValues>
         <CustomSettingValue>
@@ -8820,7 +8824,7 @@ Game Fitlers Section
       <UserfriendlyName>Freestyle Filters - App Allow</UserfriendlyName>
       <HexSettingID>0x1085DA8A</HexSettingID>
       <Hidden>true</Hidden>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
       <SettingValues>
         <CustomSettingValue>
@@ -8840,7 +8844,7 @@ Game Fitlers Section
     <CustomSetting>
       <UserfriendlyName>RTX HDR - Enable</UserfriendlyName>
       <HexSettingID>0x00DD48FB</HexSettingID>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
       <SettingValues>
         <CustomSettingValue>
@@ -8858,7 +8862,7 @@ Game Fitlers Section
     <CustomSetting>
       <UserfriendlyName>RTX HDR - Debanding</UserfriendlyName>
       <HexSettingID>0x00432F84</HexSettingID>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
       <SettingValues>
         <CustomSettingValue>
@@ -8893,7 +8897,7 @@ Game Fitlers Section
     <CustomSetting>
       <UserfriendlyName>RTX HDR - Allow</UserfriendlyName>
       <HexSettingID>0x1077A11A</HexSettingID>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
       <SettingValues>
         <CustomSettingValue>
@@ -8911,7 +8915,7 @@ Game Fitlers Section
 <CustomSetting>
   <UserfriendlyName>RTX HDR - Contrast</UserfriendlyName>
   <HexSettingID>0x00DD48FE</HexSettingID>
-  <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+  <GroupName>0.1.4 - Game Filters</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
   <SettingValues>
    <CustomSettingValue>
@@ -9089,7 +9093,7 @@ Game Fitlers Section
     <CustomSetting>
       <UserfriendlyName>RTX HDR - Middle Grey</UserfriendlyName>
       <HexSettingID>0x00DD48FD</HexSettingID>
-      <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+      <GroupName>0.1.4 - Game Filters</GroupName>
       <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
       <SettingValues>
         <CustomSettingValue>
@@ -9183,7 +9187,7 @@ Game Fitlers Section
 <CustomSetting>
   <UserfriendlyName>RTX HDR - Peak Brightness</UserfriendlyName>
   <HexSettingID>0x00DD48FC</HexSettingID>
-  <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+  <GroupName>0.1.4 - Game Filters</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
   <SettingValues>
     <CustomSettingValue>
@@ -9333,7 +9337,7 @@ Game Fitlers Section
 <CustomSetting>
   <UserfriendlyName>RTX HDR - Saturation</UserfriendlyName>
   <HexSettingID>0x00DD48FF</HexSettingID>
-  <GroupName>0.2 - Game Filters (NVOverlay Required)</GroupName>
+  <GroupName>0.1.4 - Game Filters</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
   <SettingValues>
    <CustomSettingValue>
@@ -10196,10 +10200,10 @@ Extra Section
 ===========================================================
 
 	<CustomSetting>
-		<UserfriendlyName>DLSS-SR: Force DLAA</UserfriendlyName>
+		<UserfriendlyName>DLSS = DLAA - SR</UserfriendlyName>
 		<HexSettingID>0x10E41DF4</HexSettingID>
 		<Hidden>true</Hidden>
-		<GroupName>8 - Extra</GroupName>
+		<GroupName>5 - Common</GroupName>
 		<MinRequiredDriverVersion>0</MinRequiredDriverVersion>
 		<SettingValues>
 		  <CustomSettingValue>
@@ -10215,10 +10219,9 @@ Extra Section
 	  </CustomSetting>
 
 <CustomSetting>
-  <UserfriendlyName>DLSS-SR: Force Ultra Perf</UserfriendlyName>
+  <UserfriendlyName>Ultra Performance = Performance - SR</UserfriendlyName>
   <HexSettingID>0x10AFB76C</HexSettingID>
-  <Hidden>true</Hidden>
-  <GroupName>8 - Extra</GroupName>
+  <GroupName>5 - Common</GroupName>
   <MinRequiredDriverVersion>0</MinRequiredDriverVersion>
   <SettingValues>
     <CustomSettingValue>
