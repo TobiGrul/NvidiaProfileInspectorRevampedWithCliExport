@@ -28,7 +28,7 @@ Other than the stated things above, here's some additional changes the tool make
 
 ## What is NVPI-R?
 
-![](/nspector/Images/n1-016.png) **NVIDIA Profile Inspector**
+![](/nspector/Images/n2-016.png) **NVIDIA Profile Inspector**
 
 This tool is used for modifying game profiles inside the internal nvidia driver database.
 All game profiles are provided by the nvidia driver, but you can add your own profiles for games missing in the driver database.
