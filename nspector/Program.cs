@@ -27,10 +27,24 @@ namespace nspector
             try
             {
 #endif
-                Application.EnableVisualStyles();
-                Application.SetCompatibleTextRenderingDefault(false);
-                DropDownMenuScrollWheelHandler.Enable(true);
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            DropDownMenuScrollWheelHandler.Enable(true);
 
+            var argWriteFileIndex = ArgWriteFileIndex(args);
+
+            if (argWriteFileIndex != -1 && ArgExists(args, "-silentExport"))
+            {
+                var export = DrsServiceLocator.ImportService;
+                var profileScanner = DrsServiceLocator.ScannerService;
+                var scannerCancelationTokenSource = new CancellationTokenSource();
+                var progressHandler = new Progress<int>(value => { });
+                profileScanner.ScanProfileSettingsAsync(true, progressHandler, scannerCancelationTokenSource.Token).GetAwaiter().GetResult();
+
+                export.ExportProfiles(DrsServiceLocator.ScannerService.ModifiedProfiles, args[argWriteFileIndex], false);
+            }
+            else
+            {
                 var argFileIndex = ArgFileIndex(args);
                 if (argFileIndex != -1)
                 {
@@ -92,6 +106,7 @@ namespace nspector
                         }
                     }
                 }
+            }
 #if RELEASE
             }
             catch (Exception ex)
@@ -116,6 +131,18 @@ namespace nspector
             for (int i = 0; i < args.Length; i++)
             {
                 if (File.Exists(args[i]))
+                    return i;
+            }
+
+            return -1;
+        }
+
+        private static int ArgWriteFileIndex(string[] args)
+        {
+            for (int i = 0; i < args.Length; i++)
+            {
+                string filepath = args[i];
+                if (filepath.EndsWith(".nip"))
                     return i;
             }
 
