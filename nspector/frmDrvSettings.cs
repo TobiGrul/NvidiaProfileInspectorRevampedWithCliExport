@@ -1039,7 +1039,8 @@ namespace nspector
 
         private void tsbExportProfiles_Click(object sender, EventArgs e)
         {
-            tsbExportProfiles.ShowDropDown();
+            var export = DrsServiceLocator.ImportService;
+            export.ExportProfiles(_scanner.ModifiedProfiles, @"C:\Users\tobia\OneDrive\Desktop\export.nip", false);
         }
 
         private void tsbImportProfiles_Click(object sender, EventArgs e)
